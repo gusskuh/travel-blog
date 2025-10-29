@@ -2,8 +2,8 @@ name: Generate Blog Posts
 
 on:
   schedule:
-    # Run every Tuesday and Friday at 9 AM UTC (11 AM Israel time)
-    - cron: '0 9 * * 2,5'
+    # Run every Monday and Thursday at 10 AM UTC (12 PM Israel time)
+    - cron: '0 10 * * 1,4'
   workflow_dispatch: # Allow manual triggering
 
 jobs:
