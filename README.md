@@ -132,4 +132,4 @@ For issues or questions:
 
 ---
 
-**Made with ❤️ for Hebrew travelers**
+**Made with ❤️ for Hebrew travelers**# Build trigger Wed Oct 29 13:20:36 +07 2025
