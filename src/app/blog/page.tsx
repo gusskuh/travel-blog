@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1761733445516',
+    title: 'כיצד למצוא טיסות זולות לאירופה: טיפים והמלצות',
+    excerpt: 'מחפשים דרכים לחסוך בטיסה לאירופה? במאמר זה, נציג טיפים ואתרים שיסייעו לכם למצוא טיסות זולות ליעדים המועדפים עליכם באירופה.',
+    publishedAt: '2025-10-29',
+    readTime: 12,
+    category: 'טיסות',
+    tags: ["טיסות","אירופה","חיסכון","טיפים"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-europe-tips-'
+  },
+  {
     id: '1761732980920',
     title: 'איך להזמין מלונות זולים בחו"ל?',
     excerpt: 'המדריך המלא להזמנת מלונות זולים בחו"ל. מגוון טיפים ואסטרטגיות חכמות לחיסכון משמעותי במחיר המלון, כולל שימוש באתרים מיוחדים, כלים ואפליקציות.',
