@@ -1,0 +1,18 @@
+{
+  "name": "hebrew-travel-blog-automation",
+  "version": "1.0.0",
+  "description": "AI-powered blog post generation for Hebrew travel blog",
+  "main": "generate-blog-post.js",
+  "scripts": {
+    "generate": "node generate-blog-post.js",
+    "generate:weekly": "node generate-blog-post.js --schedule=weekly",
+    "test": "node generate-blog-post.js --test"
+  },
+  "dependencies": {
+    "openai": "^6.6.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
