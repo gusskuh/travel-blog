@@ -687,7 +687,7 @@ export default function BlogPostPage() {
     
     // Sections
     if (content.sections) {
-      content.sections.forEach((section, index) => {
+      content.sections.forEach((section) => {
         html += `<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">${section.title}</h2>\n`;
         
         if (section.content) {
