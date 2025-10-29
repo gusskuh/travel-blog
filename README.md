@@ -133,3 +133,4 @@ For issues or questions:
 ---
 
 **Made with ❤️ for Hebrew travelers**# Build trigger Wed Oct 29 13:20:36 +07 2025
+# Build trigger Wed Oct 29 13:22:10 +07 2025
