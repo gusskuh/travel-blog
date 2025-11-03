@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1762165224859',
+    title: 'טיסות זולות לאמריקה: מדריך מקצועי לנוסעים',
+    excerpt: 'מחפשים טיסות זולות לאמריקה? במאמר זה, נספק לכם כלים, טיפים ושיטות שיסייעו לכם למצוא את הדילים הטובים ביותר.',
+    publishedAt: '2025-11-03',
+    readTime: 12,
+    category: 'טיפים לנוסעים',
+    tags: ["טיסות זולות","אמריקה","חיפוש טיסות","דילים"],
+    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
+    url: '/blog/flights-cheap-america-guide-'
+  },
+  {
     id: '1761819522216',
     title: 'איך לארוז נכון לנסיעה: מדריך מקצועי',
     excerpt: 'למד טיפים וטריקים לאריזה נכונה לנסיעה. הכנה של מזוודה מראש, בחירה נכונה של הבגדים וארגונם באופן שיחסוך מקום הם רק חלק מהדברים שיש לקחת בחשבון.',
