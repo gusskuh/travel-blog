@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1762424401132',
+    title: 'מציאת טיסות זולות לטורקיה: המדריך המלא',
+    excerpt: 'מדריך מקיף המסביר איך למצוא טיסות זולות לטורקיה. מציע קישורים לאתרים, כלים, וטכניקות שיעזרו לכם לחסוך במחיר הטיסה.',
+    publishedAt: '2025-11-06',
+    readTime: 12,
+    category: 'ייעדים מומלצים',
+    tags: ["טיסות זולות","חיפוש טיסות","טורקיה"],
+    image: 'https://images.unsplash.com/photo-1524231757912-21f4fe3a7200',
+    url: '/blog/-flights-cheap-guide-complete'
+  },
+  {
     id: '1762165224858',
     title: 'טיסות זולות לאמריקה: מדריך מקצועי לנוסעים',
     excerpt: 'מחפשים טיסות זולות לאמריקה? במאמר זה, נספק לכם כלים, טיפים ושיטות שיסייעו לכם למצוא את הדילים הטובים ביותר.',

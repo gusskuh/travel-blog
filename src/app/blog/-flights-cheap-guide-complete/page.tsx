@@ -1,16 +1,49 @@
 import Link from 'next/link';
 import { Calendar, Clock, ArrowLeft, User } from 'lucide-react';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'מציאת טיסות זולות לטורקיה: המדריך המלא - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
+  description: 'מדריך מקיף המסביר איך למצוא טיסות זולות לטורקיה. מציע קישורים לאתרים, כלים, וטכניקות שיעזרו לכם לחסוך במחיר הטיסה. מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
+  keywords: 'טיסות זולות, חיסכון על טיסות, טיפים לטיסות, אתרי השוואת מחירים, מדריך מקיף, טיפים מקצועיים, כלים מומלצים, חיפוש טיסות, טורקיה',
+  openGraph: {
+    title: 'מציאת טיסות זולות לטורקיה: המדריך המלא - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
+    description: 'מדריך מקיף המסביר איך למצוא טיסות זולות לטורקיה. מציע קישורים לאתרים, כלים, וטכניקות שיעזרו לכם לחסוך במחיר הטיסה. מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
+    type: 'article',
+    publishedTime: '2025-11-06',
+    authors: ['צוות טיסות זולות'],
+    tags: ["טיסות זולות","חיפוש טיסות","טורקיה"],
+    images: [
+      {
+        url: 'https://images.unsplash.com/photo-1524231757912-21f4fe3a7200',
+        width: 800,
+        height: 600,
+        alt: 'מציאת טיסות זולות לטורקיה: המדריך המלא - מדריך מקיף טיפים מקצועיים כלים מומלצים',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'מציאת טיסות זולות לטורקיה: המדריך המלא - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
+    description: 'מדריך מקיף המסביר איך למצוא טיסות זולות לטורקיה. מציע קישורים לאתרים, כלים, וטכניקות שיעזרו לכם לחסוך במחיר הטיסה. מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
+    images: ['https://images.unsplash.com/photo-1524231757912-21f4fe3a7200'],
+  },
+  alternates: {
+    canonical: '/blog/-flights-cheap-guide-complete',
+  },
+};
 
 export default function BlogPostPage() {
   const post = {
-    title: 'מצאו טיסות זולות לאוסטרליה: המדריך המלא',
-    excerpt: 'ניסיון למצוא טיסות זולות לאוסטרליה יכול להיות ממש תחרותי. עם הכלים והטיפים שלנו, תוכלו למצוא את המסלול הזול ביותר למסע הבא שלכם.',
-    publishedAt: '2025-10-28',
+    title: 'מציאת טיסות זולות לטורקיה: המדריך המלא',
+    excerpt: 'מדריך מקיף המסביר איך למצוא טיסות זולות לטורקיה. מציע קישורים לאתרים, כלים, וטכניקות שיעזרו לכם לחסוך במחיר הטיסה.',
+    publishedAt: '2025-11-06',
     readTime: 12,
-    category: 'חדשות תעופה',
-    tags: ["טיסות","אוסטרליה","חדשות תעופה","טיסות זולות"],
-    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4',
+    category: 'ייעדים מומלצים',
+    tags: ["טיסות זולות","חיפוש טיסות","טורקיה"],
+    image: 'https://images.unsplash.com/photo-1524231757912-21f4fe3a7200',
     authorName: 'צוות טיסות זולות',
     authorAvatar: '/author-avatar.svg',
     authorBio: 'מומחים בתחום הטיסות והנסיעות עם ניסיון של שנים במציאת טיסות זולות.',
@@ -89,35 +122,35 @@ export default function BlogPostPage() {
 
             {/* Article content */}
             <div className="prose prose-lg max-w-none hebrew-text">
-              <p className="text-lg text-gray-600 mb-8 leading-relaxed hebrew-text">המסע לאוסטרליה הוא ארוך ויכול להיות יקר, אך עם הכלים והמדריכים הנכונים, ניתן למצוא טיסות במחירים סבירים. נדרשת תכנון מראש, גמישות ושימוש נכון באתרים ובכלים שונים. יחד עם זאת, ניתן למצוא מסלולים זולים ואף לחסוך מאות דולרים.</p>
+              <p className="text-lg text-gray-600 mb-8 leading-relaxed hebrew-text">למצוא טיסות זולות לטורקיה הוא משימה שמחייבת מחקר והתמדה. המטרה היא למצוא את המחיר הנמוך ביותר תוך שמירה על איכות החבילה. במדריך זה נשתף איתכם טיפים, טכניקות ואתרים שיקלו עליכם את המשימה.</p>
 
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">אתרי השוואת מחירים</h2>
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">אתרים להשוואת מחירים</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">אתרי השוואת מחירים כמו Google Flights, Skyscanner ו-Kayak הם המקום הראשון לחפש טיסות זולות. Google Flights מציע חיפוש גמיש עם אפשרות לראות מחירים במהלך חודש שלם, כך שאתם יכולים למצוא את התאריכים הזולים ביותר. Skyscanner מציג יעדים זולים לפי התקציב שלכם ו-Kayak מציע את האפשרות 'Hacker Fares' שמציגה טיסות עם חברות שונות לכל כיוון.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">אתרי השוואת מחירים הם הכלי החשוב ביותר למציאת טיסות זולות. Google Flights מציע חיפוש גמיש עם אפשרות לראות מחירים על פני חודש שלם, מה שמאפשר לכם למצוא את התאריכים הזולים ביותר. Skyscanner מצוין לחיפוש גמיש עם אפשרות 'Everywhere' שמציגה יעדים זולים לפי תקציב. Kayak מציע חיפוש מתקדם עם אפשרות 'Hacker Fares' שמציגה טיסות עם חברות שונות לכל כיוון.</p>
 </div>
 
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">זמנים נמוכים לטיסה</h2>
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">זמן ההזמנה</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">התקופה המוזלת ביותר לטוס לאוסטרליה היא באופן כללי בין מאי ליוני ואז שוב בין יולי לספטמבר. המחירים נמוכים במיוחד במהלך חודשי הקיץ החמים באוסטרליה, שהם דצמבר עד פברואר. כמובן, המחירים יכולים להשתנות בהתאם לביקוש ולמלאי.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">הזמן בו אתם מזמינים את הטיסה יכול להשפיע באופן משמעותי על המחיר. המחקרים מראים שהזמן הטוב ביותר להזמין טיסה הוא בין 50 ל-100 יום לפני הטיסה. אם אתם מזמינים טיסה לטורקיה, מומלץ להתחיל לחפש כבר מספר חודשים לפני הנסיעה.</p>
 </div>
 
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">הזמנת טיסה מראש</h2>
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">המראות הזולות ביותר</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">ההזמנה מראש של טיסה היא גם דרך מצוינת לחסוך בעלויות. באופן כללי, הזמנת טיסה לאוסטרליה בפחות מששה חודשים לפני המסע יכולה להוביל למחירים גבוהים יותר. אם אתם מתכננים את המסע שלכם מראש, תוכלו למצוא מסלולים זולים יותר.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">חלק מהחברות השונות מציעות מראות זולות במיוחד לטורקיה. לדוגמה, חברת Pegasus Airlines מציעה מראות זולות מתל אביב לאיסטנבול, וחברת SunExpress מציעה מראות זולות לאנטליה. כדאי לבדוק את אתרי החברות הללו ולהשוות את המחירים.</p>
 </div>
 
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">מסלולים עם החלפות</h2>
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">התכננות מראש</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">החלפת טיסות יכולה להוביל לחיסכון משמעותי. למשל, ניתן לטוס מתל אביב לדובאי, ומשם לסינגפור, ולבסוף לסידני. אמנם זה מוסיף זמן למסע, אך זה יכול לחסוך במחיר הטיסה.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">התכננות מראש יכולה לעזור לכם לחסוך במחיר הטיסה. כדאי להתעדכן במבצעים והנחות של חברות התעופה, ולהגיש בקשות למידע מחירים מראש. בנוסף, כדאי לשקול את אפשרות הרכישה של חבילת נופש, שלא תמיד יותר יקרה מרכישת כרטיס טיסה בלבד.</p>
 </div>
 
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">השוואת חברות תעופה</h2>
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">שימוש במצב incognito</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">חברות התעופה השונות מציעות מחירים שונים, ולכן חשוב להשוות ביניהן. לדוגמה, חברות כמו Emirates ו-Etihad מציעות טיסות במחירים נמוכים יותר לאוסטרליה מאשר חברות אחרות. השוואת מחירים בין חברות התעופה השונות יכולה לעזור לכם למצוא את המסלול הזול ביותר.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">אתרים רבים משנים את המחירים בהתאם להיסטוריית החיפוש שלכם. כדי למנוע מהם להעלות את המחירים, כדאי להשתמש במצב incognito בדפדפן שלכם. במצב זה, האתרים לא יוכלו לעקוב אחרי היסטוריית החיפוש שלכם, והמחירים שיציגו יהיו נכונים יותר.</p>
 </div>
 
 <h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">סיכום</h2>
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">המסע לאוסטרליה יכול להיות יקר, אך עם התכנון הנכון ושימוש נכון בכלים, ניתן למצוא טיסות במחירים סבירים. זכרו להשוות מחירים, להיות גמישים עם התאריכים שלכם ולטוס בתקופות הנמוכות ביותר. בהצלחה במסע שלכם!</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">מציאת טיסות זולות לטורקיה היא משימה שדורשת מחקר ותכנון. בעזרת הכלים והטכניקות ששיתפנו כאן, אתם תוכלו לחסוך משמעותית במחיר הטיסה. בהצלחה בחיפוש!</p>
 
             </div>
 
@@ -144,23 +177,8 @@ export default function BlogPostPage() {
           </div>
         </div>
       </article>
-
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-16">
-        <div className="container mx-auto px-6 lg:px-8">
-          <div className="text-center">
-            <div className="flex items-center justify-center space-x-2 space-x-reverse mb-4">
-              <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">✈</span>
-              </div>
-              <span className="text-xl font-bold hebrew-text">טיסות זולות</span>
-            </div>
-            <p className="text-gray-400 hebrew-text">
-              המדריך המלא לטיסות זולות ונסיעות חכמות
-            </p>
-          </div>
-        </div>
-      </footer>
+      
+      <Footer />
     </div>
   );
 }
