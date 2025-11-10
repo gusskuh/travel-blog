@@ -5,30 +5,30 @@ import Footer from '@/components/Footer';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'איך למצוא טיסות זולות לקפריסין - מדריך מקיף 2025',
-  description: 'גלו איך למצוא טיסות זולות לקפריסין עם הטיפים והכלים הטובים ביותר. מדריך מקצועי לחיסכון על טיסות לקפריסין כולל אתרים מומלצים וטריקים מתקדמים.',
-  keywords: 'טיסות זולות לקפריסין, טיסות לקפריסין, חופשה בקפריסין, טיפים לטיסות, חיסכון על טיסות, אתרי השוואת מחירים, טיסות מישראל',
+  title: 'גילוי הטיסות הזולות ביותר לקפריסין - קפריסין טיסות לקפריסין חופשה בקפריסין מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
+  description: 'מחפשים טיסות זולות לקפריסין? פוסט זה מספק את כל הטיפים והכלים שאתם צריכים כדי למצוא דילים שווים ליעד המועדף שלכם. קפריסין, טיסות לקפריסין, חופשה בקפריסין, מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
+  keywords: 'טיסות זולות, חיסכון על טיסות, טיפים לטיסות, אתרי השוואת מחירים, קפריסין, טיסות לקפריסין, חופשה בקפריסין, מדריך מקיף, טיפים מקצועיים, כלים מומלצים, מסלולים, הזמנות באינטרנט',
   openGraph: {
-    title: 'איך למצוא טיסות זולות לקפריסין - מדריך מקיף 2025',
-    description: 'גלו איך למצוא טיסות זולות לקפריסין עם הטיפים והכלים הטובים ביותר. מדריך מקצועי לחיסכון על טיסות לקפריסין.',
+    title: 'גילוי הטיסות הזולות ביותר לקפריסין - קפריסין טיסות לקפריסין חופשה בקפריסין מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
+    description: 'מחפשים טיסות זולות לקפריסין? פוסט זה מספק את כל הטיפים והכלים שאתם צריכים כדי למצוא דילים שווים ליעד המועדף שלכם. קפריסין, טיסות לקפריסין, חופשה בקפריסין, מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
     type: 'article',
-    publishedTime: '2025-10-28',
+    publishedTime: '2025-11-10',
     authors: ['צוות טיסות זולות'],
-    tags: ['טיסות זולות', 'קפריסין', 'חופשה', 'טיפים'],
+    tags: ["טיסות זולות","קפריסין","מסלולים","הזמנות באינטרנט"],
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
+        url: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
         width: 800,
         height: 600,
-        alt: 'טיסות זולות לקפריסין',
+        alt: 'גילוי הטיסות הזולות ביותר לקפריסין - קפריסין טיסות לקפריסין חופשה בקפריסין',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'איך למצוא טיסות זולות לקפריסין - מדריך מקיף 2025',
-    description: 'גלו איך למצוא טיסות זולות לקפריסין עם הטיפים והכלים הטובים ביותר.',
-    images: ['https://images.unsplash.com/photo-1469474968028-56623f02e42e'],
+    title: 'גילוי הטיסות הזולות ביותר לקפריסין - קפריסין טיסות לקפריסין חופשה בקפריסין מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
+    description: 'מחפשים טיסות זולות לקפריסין? פוסט זה מספק את כל הטיפים והכלים שאתם צריכים כדי למצוא דילים שווים ליעד המועדף שלכם. קפריסין, טיסות לקפריסין, חופשה בקפריסין, מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
+    images: ['https://images.unsplash.com/photo-1436491865332-7a61a109cc05'],
   },
   alternates: {
     canonical: '/blog/-flights-cheap-',
@@ -37,13 +37,13 @@ export const metadata: Metadata = {
 
 export default function BlogPostPage() {
   const post = {
-    title: 'איך למצוא טיסות זולות לקפריסין',
-    excerpt: 'קפריסין היא יעד מועדף לישראלים. גלו במאמר זה איך למצוא טיסות זולות לקפריסין באמצעות אתרים מגוונים, כלים חדשניים וטיפים מקצועיים.',
-    publishedAt: '2025-10-28',
+    title: 'גילוי הטיסות הזולות ביותר לקפריסין',
+    excerpt: 'מחפשים טיסות זולות לקפריסין? פוסט זה מספק את כל הטיפים והכלים שאתם צריכים כדי למצוא דילים שווים ליעד המועדף שלכם.',
+    publishedAt: '2025-11-10',
     readTime: 12,
-    category: 'יעדים מומלצים',
-    tags: ["טיסות","קפריסין","חגים","חופשה","חיפוש טיסות"],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
+    category: 'חופשות',
+    tags: ["טיסות זולות","קפריסין","מסלולים","הזמנות באינטרנט"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
     authorName: 'צוות טיסות זולות',
     authorAvatar: '/author-avatar.svg',
     authorBio: 'מומחים בתחום הטיסות והנסיעות עם ניסיון של שנים במציאת טיסות זולות.',
@@ -122,35 +122,35 @@ export default function BlogPostPage() {
 
             {/* Article content */}
             <div className="prose prose-lg max-w-none hebrew-text">
-              <p className="text-lg text-gray-600 mb-8 leading-relaxed hebrew-text">קפריסין היא יעד מועדף לישראלים, המציעה שילוב של חוף ים מדהים, מנות מקומיות מעולות ואתרים ארכיאולוגיים מרהיבים. כדי להפוך את הנסיעה למשתלמת יותר, נדרשת מעט מחקר והכנה. במאמר זה, אנו נאפשר לכם למצוא את הטיסה הזולה ביותר לקפריסין, תוך שימוש באתרים שונים, כלים יעילים וטיפים מקצועיים.</p>
+              <p className="text-lg text-gray-600 mb-8 leading-relaxed hebrew-text">קפריסין היא אחת מהיעדים המועדפים על ישראלים. אם אתם מחפשים טיסות זולות לקפריסין, המאמר הזה מכיל את כל המידע שאתם צריכים. נדבך אתכם בכל השלבים, מהחיפוש הראשוני ועד להזמנה.</p>
 
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">חיפוש טיסות באינטרנט</h2>
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">אתרים להשוואת מחירים</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">אתרי השוואת מחירים כמו Skyscanner, Google Flights ו-Kayak הם מקום מצוין להתחיל. הם מאפשרים חיפוש גמיש שמראה את המחירים לפי חודש שלם, מה שמאפשר למצוא את התאריכים הזולים ביותר. בנוסף, ניתן להשתמש באפשרות 'Hacker Fares' של Kayak, שמציגה טיסות עם חברות שונות לכל כיוון. זכרו לבדוק מספר אתרים, שכן כל אחד מציע מחירים שונים.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">אתרי השוואת מחירים הם הכלי החשוב ביותר למציאת טיסות זולות. Google Flights, Skyscanner ו-Kayak הם אתרים מעולים שמציעים חיפוש גמיש ומספקים מחירים שונים. אתר Kayak מציע את הכלי 'Price Forecast' שמנבא אם המחיר יעלה או ירד. בדקו מספר אתרים כדי לוודא שאתם מקבלים את הדיל הטוב ביותר.</p>
 </div>
 
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">תכנון מראש</h2>
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">השוואת חברות תעופה</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">באופן כללי, הזמנת טיסה מראש של כ-2-3 חודשים לפני המועד המבוקש, מאפשרת למצוא מחירים זולים יותר. במקרה של קפריסין, המחירים נמוכים במיוחד בחודשי החורף, כאשר פחות תיירים מבקרים באי. אם אתם מחפשים טיסה זולה, כדאי לבחון את תאריכי הנסיעה שלכם.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">לא כל חברות התעופה מציעות את אותן המחירים על טיסות לקפריסין. לדוגמה, חברת Wizz Air מציעה טיסות זולות ללארנקה, בעוד Ryanair מציעה טיסות זולות לפאפוס. חשוב להשוות בין החברות השונות כדי למצוא את הדיל הטוב ביותר.</p>
 </div>
 
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">הזמנת טיסה לפי ימי השבוע</h2>
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">זמנים טובים להזמין</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">חקרים מראים שהמחירים של טיסות משתנים לפי ימי השבוע. במקרה של טיסות לקפריסין, המחירים הכי זולים מצויים ברוב המקרים בימי שני ושלישי. ימי שישי ושבת הם הימים הכי יקרים לטוס. לכן, כדאי לעקוב אחרי המחירים של הטיסות ולבחון את האפשרויות בהתאם.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">התכנון מראש הוא קריטי במציאת טיסות זולות. בדרך כלל, המחירים הזולים ביותר מתקבלים כאשר מזמינים 60-90 יום לפני הטיסה. חודשים כמו פברואר ונובמבר הם חודשים יחסית זולים לטיסות לקפריסין.</p>
+</div>
+
+<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">השוואת שדות התעופה</h2>
+<div className="mb-8">
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">קפריסין מציעה שני שדות תעופה בינלאומיים: שדה התעופה בלארנקה ושדה התעופה בפאפוס. יש חברות תעופה שטסות לשני השדות, אך יש גם חברות שטסות רק לאחד מהם. חשוב להשוות את המחירים של שני השדות.</p>
 </div>
 
 <h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">שימוש במצב incognito</h2>
 <div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">אתרים רבים משתמשים ב-cookies למעקב אחר היסטוריית החיפוש שלכם, ומעלים את המחירים בהתאם. כדי למנוע זאת, ניתן להשתמש במצב incognito או private browsing בדפדפן שלכם. זה ימנע מהאתרים לעקוב אחרי החיפושים שלכם, ויאפשר לכם למצוא את המחיר הזול ביותר.</p>
-</div>
-
-<h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">הרשמה לרשימת תפוצה</h2>
-<div className="mb-8">
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">חברות התעופה רבות מציעות הכי הרבה הנחות למנויי רשימת התפוצה שלהן. כאשר אתם מנויים לרשימה, אתם מקבלים בדואר האלקטרוני שלכם מבצעים והכרזות על מכירות של טיסות. לכן, כדאי להירשם לרשימת התפוצה של חברות התעופה השונות.</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">כאשר אתם מחפשים טיסות באינטרנט, חשוב להשתמש במצב incognito בדפדפן שלכם. הסיבה לכך היא שאתרים רבים עוקבים אחר היסטוריית החיפוש שלכם ומעלים את המחירים בהתאם.</p>
 </div>
 
 <h2 className="text-2xl font-bold text-gray-900 mb-6 mt-12 hebrew-text">סיכום</h2>
-<p className="text-lg text-gray-600 leading-relaxed hebrew-text">המחירים של טיסות לקפריסין יכולים להיות משתנים, אך עם תכנון מראש, חיפוש גמיש ושימוש בכלים הנכונים, אפשר למצוא טיסה זולה. זכרו לבדוק מספר אתרים שונים, להימנע מהוספת cookies באמצעות מצב ה-incognito, ולהרשם לרשימת התפוצה של חברות התעופה. בהצלחה במציאת הטיסה הזולה ביותר לקפריסין!</p>
+<p className="text-lg text-gray-600 leading-relaxed hebrew-text">מציאת טיסות זולות לקפריסין היא תהליך שדורש מחקר ותכנון. אם תעקבו אחר הטיפים שצוינו במאמר, תוכלו למצוא טיסה במחיר זול. תזכרו, התכנון המוקדם, ההשוואה של המחירים והשימוש במצב incognito יכולים לעזור לכם לחסוך כסף רב.</p>
 
             </div>
 
@@ -177,23 +177,7 @@ export default function BlogPostPage() {
           </div>
         </div>
       </article>
-
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-16">
-        <div className="container mx-auto px-6 lg:px-8">
-          <div className="text-center">
-            <div className="flex items-center justify-center space-x-2 space-x-reverse mb-4">
-              <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">✈</span>
-              </div>
-              <span className="text-xl font-bold hebrew-text">טיסות זולות</span>
-            </div>
-            <p className="text-gray-400 hebrew-text">
-              המדריך המלא לטיסות זולות ונסיעות חכמות
-            </p>
-          </div>
-        </div>
-      </footer>
+      
       <Footer />
     </div>
   );

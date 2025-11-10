@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1762770087669',
+    title: 'גילוי הטיסות הזולות ביותר לקפריסין',
+    excerpt: 'מחפשים טיסות זולות לקפריסין? פוסט זה מספק את כל הטיפים והכלים שאתם צריכים כדי למצוא דילים שווים ליעד המועדף שלכם.',
+    publishedAt: '2025-11-10',
+    readTime: 12,
+    category: 'חופשות',
+    tags: ["טיסות זולות","קפריסין","מסלולים","הזמנות באינטרנט"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-'
+  },
+  {
     id: '1762424401132',
     title: 'מציאת טיסות זולות לטורקיה: המדריך המלא',
     excerpt: 'מדריך מקיף המסביר איך למצוא טיסות זולות לטורקיה. מציע קישורים לאתרים, כלים, וטכניקות שיעזרו לכם לחסוך במחיר הטיסה.',
