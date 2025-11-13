@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1763029187509',
+    title: 'המדריך המלא לטיסות זולות ליוון',
+    excerpt: 'מחפשים דרך לחסוך בטיסה ליוון? קראו את המדריך שלנו ותגלו את הטיפים למציאת טיסות זולות ואיך למקסם את התמורה לכסף שלכם.',
+    publishedAt: '2025-11-13',
+    readTime: 12,
+    category: 'טיסות',
+    tags: ["טיסות זולות","יוון","חופשה","חיפוש טיסות","חיסכון"],
+    image: 'https://images.unsplash.com/photo-1570077188660-9787d3f8c4b8',
+    url: '/blog/guide-complete-flights-cheap-'
+  },
+  {
     id: '1762770087669',
     title: 'גילוי הטיסות הזולות ביותר לקפריסין',
     excerpt: 'מחפשים טיסות זולות לקפריסין? פוסט זה מספק את כל הטיפים והכלים שאתם צריכים כדי למצוא דילים שווים ליעד המועדף שלכם.',
