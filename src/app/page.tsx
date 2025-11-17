@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1763374806660',
+    title: 'מציאת טיסות זולות להודו: מדריך מקצועי',
+    excerpt: 'מדריך זה מספק טיפים ואסטרטגיות מקצועיות על כיצד למצוא טיסות זולות להודו. כולל אתרים מועילים, זמנים מומלצים להזמנה והכנה מראש לטיסה.',
+    publishedAt: '2025-11-17',
+    readTime: 12,
+    category: 'ניסיעות',
+    tags: ["טיסות","הודו","חיסכון","ניסיעות"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-guide-'
+  },
+  {
     id: '1763029187509',
     title: 'המדריך המלא לטיסות זולות ליוון',
     excerpt: 'מחפשים דרך לחסוך בטיסה ליוון? קראו את המדריך שלנו ותגלו את הטיפים למציאת טיסות זולות ואיך למקסם את התמורה לכסף שלכם.',
