@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1764843748709',
+    title: 'כיצד למצוא טיסות זולות לתאילנד',
+    excerpt: 'מדריך מקיף למציאת טיסות זולות לתאילנד. המדריך מכיל דרכים, טיפים ואסטרטגיות שיסייעו לכם לחסוך בעלות הטיסה שלכם.',
+    publishedAt: '2025-12-04',
+    readTime: 12,
+    category: 'תיירות',
+    tags: ["טיסות זולות","תאילנד","חיפוש טיסות","אתרים להשוואת מחירים"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-'
+  },
+  {
     id: '1763979596616',
     title: 'מצאו טיסות זולות ליוון: המדריך המקיף שלנו',
     excerpt: 'מחפשים טיסות זולות ליוון? המדריך שלנו מפרט את הכלים, האתרים והטיפים שיסייעו לכם למצוא את הדיל הכי טוב. למדו איך לחסוך בטיסה הבאה שלכם.',
