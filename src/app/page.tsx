@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1765189239759',
+    title: 'מצאו את הטיסות הזולות ביותר ליוון: טיפים וטריקים',
+    excerpt: 'המדריך המלא למציאת הטיסות הזולות ביותר ליוון. מגלים את האתרים המובילים, האפשרויות הגמישות והתכנונים המוקדמים שישפרו את החוויה שלכם ויחסכו לכם כסף.',
+    publishedAt: '2025-12-08',
+    readTime: 12,
+    category: 'טיפים לנוסעים',
+    tags: ["טיסות זולות","יוון","חופשה","חסכון"],
+    image: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+    url: '/blog/-flights-cheap-tips-'
+  },
+  {
     id: '1764843748709',
     title: 'כיצד למצוא טיסות זולות לתאילנד',
     excerpt: 'מדריך מקיף למציאת טיסות זולות לתאילנד. המדריך מכיל דרכים, טיפים ואסטרטגיות שיסייעו לכם לחסוך בעלות הטיסה שלכם.',
