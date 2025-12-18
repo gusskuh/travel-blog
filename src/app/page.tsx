@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1766053202479',
+    title: 'מציאת טיסות זולות ליוון: מדריך מקצועי',
+    excerpt: 'מדריך מקצועי המסביר כיצד למצוא טיסות זולות ליוון, הכולל המלצות על אתרים, כלים ואסטרטגיות.',
+    publishedAt: '2025-12-18',
+    readTime: 12,
+    category: 'טיולים ונופש',
+    tags: ["טיסות","יוון","חופשה","טיסות זולות"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-guide-'
+  },
+  {
     id: '1765794184453',
     title: 'טיסות זולות לאפריקה: כל הטיפים שאתם צריכים לדעת',
     excerpt: 'מדריך מקיף זה יעזור לכם למצוא טיסות זולות לאפריקה. אנחנו מציעים טיפים מעשיים, כלים ומתודות שיסייעו לכם למקסם את החסכון שלכם.',
