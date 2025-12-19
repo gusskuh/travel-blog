@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     tags: ["טיסות","אנגליה","טיסות זולות","החזרים"],
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1513635269975-59663e0eb1f7',
+        url: 'https://images.unsplash.com/photo-1543832923-44667a44c804?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         width: 800,
         height: 600,
         alt: 'מציאת טיסות זולות לאנגליה: מדריך מקיף - מדריך מקיף טיפים מקצועיים כלים מומלצים',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'מציאת טיסות זולות לאנגליה: מדריך מקיף - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
     description: 'מחפשים טיסות זולות לאנגליה? בפוסט זה נשתף עם כם טיפים ואסטרטגיות למציאת הדילים הכי שווים ברשת, כולל כלים, אתרים ואפשרויו... מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
-    images: ['https://images.unsplash.com/photo-1513635269975-59663e0eb1f7'],
+    images: ['https://images.unsplash.com/photo-1543832923-44667a44c804?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'],
   },
   alternates: {
     canonical: '/blog/-flights-cheap-guide-',
@@ -43,7 +43,7 @@ export default function BlogPostPage() {
     readTime: 12,
     category: 'טיסות',
     tags: ["טיסות","אנגליה","טיסות זולות","החזרים"],
-    image: 'https://images.unsplash.com/photo-1513635269975-59663e0eb1f7',
+    image: 'https://images.unsplash.com/photo-1543832923-44667a44c804?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     authorName: 'צוות טיסות זולות',
     authorAvatar: '/author-avatar.svg',
     authorBio: 'מומחים בתחום הטיסות והנסיעות עם ניסיון של שנים במציאת טיסות זולות.',
