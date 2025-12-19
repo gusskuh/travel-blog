@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1766135963406',
+    title: 'מציאת טיסות זולות לאנגליה: מדריך מקיף',
+    excerpt: 'מחפשים טיסות זולות לאנגליה? בפוסט זה נשתף עם כם טיפים ואסטרטגיות למציאת הדילים הכי שווים ברשת, כולל כלים, אתרים ואפשרויות ביטול והחזרים.',
+    publishedAt: '2025-12-19',
+    readTime: 12,
+    category: 'טיסות',
+    tags: ["טיסות","אנגליה","טיסות זולות","החזרים"],
+    image: 'https://images.unsplash.com/photo-1513635269975-59663e0eb1f7',
+    url: '/blog/-flights-cheap-guide-'
+  },
+  {
     id: '1766053202479',
     title: 'מציאת טיסות זולות ליוון: מדריך מקצועי',
     excerpt: 'מדריך מקצועי המסביר כיצד למצוא טיסות זולות ליוון, הכולל המלצות על אתרים, כלים ואסטרטגיות.',
