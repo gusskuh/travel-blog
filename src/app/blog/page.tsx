@@ -13,7 +13,7 @@ const mockPosts = [
     readTime: 12,
     category: 'טיולים ונופש',
     tags: ["טיסות","יוון","חופשה","טיסות זולות"],
-    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    image: 'https://plus.unsplash.com/premium_photo-1680497811614-4f93025d7e57?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     url: '/blog/-flights-cheap-guide-'
   },
   {
@@ -24,19 +24,8 @@ const mockPosts = [
     readTime: 12,
     category: 'טיפים לנוסעים',
     tags: ["טיסות","אפריקה","חסכון","נסיעות"],
-    image: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+    image: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5',
     url: '/blog/flights-cheap-tips-'
-  },
-  {
-    id: '1765189239760',
-    title: 'מצאו את הטיסות הזולות ביותר ליוון: טיפים וטריקים',
-    excerpt: 'המדריך המלא למציאת הטיסות הזולות ביותר ליוון. מגלים את האתרים המובילים, האפשרויות הגמישות והתכנונים המוקדמים שישפרו את החוויה שלכם ויחסכו לכם כסף.',
-    publishedAt: '2025-12-08',
-    readTime: 12,
-    category: 'טיפים לנוסעים',
-    tags: ["טיסות זולות","יוון","חופשה","חסכון"],
-    image: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
-    url: '/blog/-flights-cheap-tips-'
   },
   {
     id: '1764843748710',
@@ -46,7 +35,7 @@ const mockPosts = [
     readTime: 12,
     category: 'תיירות',
     tags: ["טיסות זולות","תאילנד","חיפוש טיסות","אתרים להשוואת מחירים"],
-    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    image: 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a',
     url: '/blog/-flights-cheap-'
   },
   {
@@ -72,17 +61,6 @@ const mockPosts = [
     url: '/blog/-tips-professional-'
   },
   {
-    id: '1763374806661',
-    title: 'מציאת טיסות זולות להודו: מדריך מקצועי',
-    excerpt: 'מדריך זה מספק טיפים ואסטרטגיות מקצועיות על כיצד למצוא טיסות זולות להודו. כולל אתרים מועילים, זמנים מומלצים להזמנה והכנה מראש לטיסה.',
-    publishedAt: '2025-11-17',
-    readTime: 12,
-    category: 'ניסיעות',
-    tags: ["טיסות","הודו","חיסכון","ניסיעות"],
-    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
-    url: '/blog/-flights-cheap-guide-'
-  },
-  {
     id: '1763029187509',
     title: 'המדריך המלא לטיסות זולות ליוון',
     excerpt: 'מחפשים דרך לחסוך בטיסה ליוון? קראו את המדריך שלנו ותגלו את הטיפים למציאת טיסות זולות ואיך למקסם את התמורה לכסף שלכם.',
@@ -90,19 +68,8 @@ const mockPosts = [
     readTime: 12,
     category: 'טיסות',
     tags: ["טיסות זולות","יוון","חופשה","חיפוש טיסות","חיסכון"],
-    image: 'https://images.unsplash.com/photo-1570077188660-9787d3f8c4b8',
+    image: 'https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     url: '/blog/guide-complete-flights-cheap-'
-  },
-  {
-    id: '1762770087669',
-    title: 'גילוי הטיסות הזולות ביותר לקפריסין',
-    excerpt: 'מחפשים טיסות זולות לקפריסין? פוסט זה מספק את כל הטיפים והכלים שאתם צריכים כדי למצוא דילים שווים ליעד המועדף שלכם.',
-    publishedAt: '2025-11-10',
-    readTime: 12,
-    category: 'חופשות',
-    tags: ["טיסות זולות","קפריסין","מסלולים","הזמנות באינטרנט"],
-    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
-    url: '/blog/-flights-cheap-'
   },
   {
     id: '1762424401132',
@@ -116,6 +83,17 @@ const mockPosts = [
     url: '/blog/-flights-cheap-guide-complete'
   },
   {
+    id: '1765189239760',
+    title: 'מצאו את הטיסות הזולות ביותר ליוון: טיפים וטריקים',
+    excerpt: 'המדריך המלא למציאת הטיסות הזולות ביותר ליוון. מגלים את האתרים המובילים, האפשרויות הגמישות והתכנונים המוקדמים שישפרו את החוויה שלכם ויחסכו לכם כסף.',
+    publishedAt: '2025-12-08',
+    readTime: 12,
+    category: 'טיפים לנוסעים',
+    tags: ["טיסות זולות","יוון","חופשה","חסכון"],
+    image: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+    url: '/blog/-flights-cheap-tips-'
+  },
+  {
     id: '1762165224859',
     title: 'טיסות זולות לאמריקה: מדריך מקצועי לנוסעים',
     excerpt: 'מחפשים טיסות זולות לאמריקה? במאמר זה, נספק לכם כלים, טיפים ושיטות שיסייעו לכם למצוא את הדילים הטובים ביותר.',
@@ -123,7 +101,7 @@ const mockPosts = [
     readTime: 12,
     category: 'טיפים לנוסעים',
     tags: ["טיסות זולות","אמריקה","חיפוש טיסות","דילים"],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
+    image: 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     url: '/blog/flights-cheap-america-guide-'
   },
   {
@@ -171,28 +149,6 @@ const mockPosts = [
     url: '/blog/flights-cheap-'
   },
   {
-    id: '1761672847672',
-    title: 'מצאו טיסות זולות לאוסטרליה: המדריך המלא',
-    excerpt: 'ניסיון למצוא טיסות זולות לאוסטרליה יכול להיות ממש תחרותי. עם הכלים והטיפים שלנו, תוכלו למצוא את המסלול הזול ביותר למסע הבא שלכם.',
-    publishedAt: '2025-10-28',
-    readTime: 12,
-    category: 'חדשות תעופה',
-    tags: ["טיסות","אוסטרליה","חדשות תעופה","טיסות זולות"],
-    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4',
-    url: '/blog/-flights-cheap-guide-complete'
-  },
-  {
-    id: '1761658007558',
-    title: 'איך למצוא טיסות זולות לקפריסין',
-    excerpt: 'קפריסין היא יעד מועדף לישראלים. גלו במאמר זה איך למצוא טיסות זולות לקפריסין באמצעות אתרים מגוונים, כלים חדשניים וטיפים מקצועיים.',
-    publishedAt: '2025-10-28',
-    readTime: 12,
-    category: 'יעדים מומלצים',
-    tags: ["טיסות","קפריסין","חגים","חופשה","חיפוש טיסות"],
-    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
-    url: '/blog/-flights-cheap-'
-  },
-  {
     id: '1761657778056',
     title: 'טיסות זולות לחופשת החורף: מדריך מקיף לחיפוש והזמנה',
     excerpt: 'במאמר זה נעבור על מגוון טיפים וכלים המסייעים במציאת טיסות זולות לחופשת החורף, כולל הסברים מפורטים איך להשתמש באתרים שונים ואיך לנהל תהליך ההזמנה.',
@@ -203,72 +159,6 @@ const mockPosts = [
     image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
     url: '/blog/flights-cheap-guide-'
   },
-  {
-    id: '1761656655302',
-    title: 'טיסות זולות לקפריסין: המדריך המלא',
-    excerpt: 'מחפשים טיסות זולות לקפריסין? במאמר זה, נדריך אתכם צעד אחר צעד כיצד למצוא את הדילים הכי שווים בשוק.',
-    publishedAt: '2025-10-28',
-    readTime: 12,
-    category: 'טיולים',
-    tags: ["טיסות זולות","קפריסין","השוואת מחירים","Google Flights","Skyscanner","Kayak"],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
-    url: '/blog/flights-cheap-guide-complete'
-  },
-  {
-    id: '1761654985489',
-    title: 'כיצד למצוא טיסות זולות לחו"ל תוך חסכון משמעותי?',
-    excerpt: 'מדריך מקיף שמסביר איך למצוא טיסות זולות לחו"ל, תוך שמירה על חסכון משמעותי בשנת 2025. יוצאים לטיול? קראו את המדריך שלנו ותעפו לחו"ל במחירים שווים לכל כיס.',
-    publishedAt: '2025-10-28',
-    readTime: 12,
-    category: 'טיולים',
-    tags: ["טיסות","חסכון","חו\"ל","מדריכים"],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
-    url: '/blog/-flights-cheap-'
-  },
-  {
-    id: '1761499137266',
-    title: 'כיצד למצוא את הטיסות הזולות ביותר לישראלים: מדריך מקצועי לשנת 2025',
-    excerpt: 'מדריך זה יעזור לכם למצוא את הטיסות הכי זולות הזמינות לישראלים. הוא מכיל מגוון טיפים וטכניקות מקצועיות שמטרתן לחסוך לכם כסף בהזמנת טיסות.',
-    publishedAt: '2025-10-26',
-    readTime: 12,
-    category: 'מדריכים מקצועיים',
-    tags: ["טיסות","חיסכון","מחירים","חופשה"],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
-    url: '/blog/-flights-cheap-israel-guide-2025'
-  },
-  {
-    id: '1761499033192',
-    title: 'גילוי הטיסות הכי זולות לשנת 2025: מדריך מקצועי לישראלים המחפשים לחסוך בנסיעות',
-    excerpt: 'המדריך המקיף הזה מספק טיפים מעשיים ומקצועיים לישראלים המחפשים דרכים לחסוך ברכישת טיסות. המדריך כולל את המקורות המובילים למציאת טיסות זולות, טכניקות חיפוש מתקדמות והמלצות לנסיעה חסכונית.',
-    publishedAt: '2025-10-26',
-    readTime: 12,
-    category: 'נסיעות',
-    tags: ["נסיעות","חיסכון","טיסות","מדריך"],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
-    url: '/blog/-flights-cheap-2025-guide-israel-travel'
-  },
-  {
-    id: 'comprehensive-guide-2025',
-    title: 'המדריך המלא למציאת טיסות זולות ב-2025: כל מה שאתה צריך לדעת',
-    excerpt: 'מדריך מקיף ומפורט למציאת טיסות זולות ב-2025. כולל טיפים מקצועיים, כלים מומלצים, אסטרטגיות מתקדמות ודוגמאות מעשיות שיחסכו לך מאות שקלים על כל טיסה.',
-    publishedAt: '2025-01-15',
-    readTime: 15,
-    category: 'מדריכים מקיפים',
-    tags: ['טיסות זולות', 'מדריך מקיף', 'חיסכון', '2025', 'טיפים מקצועיים'],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
-    url: '/blog/complete-guide-cheap-flights-2025'
-  },
-  {
-    id: '1761498359502',
-    title: 'מדריך מעודכן ל-2025: כיצד למצוא את הטיסות הזולות ביותר מישראל ליעדים פופולריים בעולם',
-    excerpt: 'המדריך הזה מציג מספר טיפים מעשיים שיסייעו לכם למצוא את הטיסות הזולות ביותר מישראל ליעדים פופולריים בעולם, עם דגש על שיטות חיפוש חכמות והכנה מוקדמת.',
-    publishedAt: '2025-10-26',
-    readTime: 8,
-    category: 'חדשות תעופה',
-    tags: ["טיסות","חיפוש טיסות","טיפים","חסכון","תעופה"],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
-    url: '/blog/guide-2025-flights-cheap-israel-destinations-'
-  }
 ];
 
 export default function BlogPage() {

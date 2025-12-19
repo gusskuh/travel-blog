@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     tags: ["טיסות זולות","תאילנד","חיפוש טיסות","אתרים להשוואת מחירים"],
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+        url: 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a',
         width: 800,
         height: 600,
         alt: 'כיצד למצוא טיסות זולות לתאילנד - מדריך מקיף טיפים מקצועיים כלים מומלצים',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'כיצד למצוא טיסות זולות לתאילנד - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
     description: 'מדריך מקיף למציאת טיסות זולות לתאילנד. המדריך מכיל דרכים, טיפים ואסטרטגיות שיסייעו לכם לחסוך בעלות הטיסה שלכם. מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
-    images: ['https://images.unsplash.com/photo-1436491865332-7a61a109cc05'],
+    images: ['https://images.unsplash.com/photo-1552465011-b4e21bf6e79a'],
   },
   alternates: {
     canonical: '/blog/-flights-cheap-',
@@ -43,7 +43,7 @@ export default function BlogPostPage() {
     readTime: 12,
     category: 'תיירות',
     tags: ["טיסות זולות","תאילנד","חיפוש טיסות","אתרים להשוואת מחירים"],
-    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    image: 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a',
     authorName: 'צוות טיסות זולות',
     authorAvatar: '/author-avatar.svg',
     authorBio: 'מומחים בתחום הטיסות והנסיעות עם ניסיון של שנים במציאת טיסות זולות.',

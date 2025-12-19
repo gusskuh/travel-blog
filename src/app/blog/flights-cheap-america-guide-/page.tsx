@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     tags: ["טיסות זולות","אמריקה","חיפוש טיסות","דילים"],
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
+        url: 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         width: 800,
         height: 600,
         alt: 'טיסות זולות לאמריקה: מדריך מקצועי לנוסעים - מדריך מקיף טיפים מקצועיים כלים מומלצים',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'טיסות זולות לאמריקה: מדריך מקצועי לנוסעים - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
     description: 'מחפשים טיסות זולות לאמריקה? במאמר זה, נספק לכם כלים, טיפים ושיטות שיסייעו לכם למצוא את הדילים הטובים ביותר. מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
-    images: ['https://images.unsplash.com/photo-1469474968028-56623f02e42e'],
+    images: ['https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'],
   },
   alternates: {
     canonical: '/blog/flights-cheap-america-guide-',
@@ -43,7 +43,7 @@ export default function BlogPostPage() {
     readTime: 12,
     category: 'טיפים לנוסעים',
     tags: ["טיסות זולות","אמריקה","חיפוש טיסות","דילים"],
-    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
+    image: 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     authorName: 'צוות טיסות זולות',
     authorAvatar: '/author-avatar.svg',
     authorBio: 'מומחים בתחום הטיסות והנסיעות עם ניסיון של שנים במציאת טיסות זולות.',

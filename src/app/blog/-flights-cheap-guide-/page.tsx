@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     tags: ["טיסות","יוון","חופשה","טיסות זולות"],
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+        url: 'https://plus.unsplash.com/premium_photo-1680497811614-4f93025d7e57?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         width: 800,
         height: 600,
         alt: 'מציאת טיסות זולות ליוון: מדריך מקצועי - מדריך מקיף טיפים מקצועיים כלים מומלצים',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'מציאת טיסות זולות ליוון: מדריך מקצועי - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
     description: 'מדריך מקצועי המסביר כיצד למצוא טיסות זולות ליוון, הכולל המלצות על אתרים, כלים ואסטרטגיות. מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
-    images: ['https://images.unsplash.com/photo-1436491865332-7a61a109cc05'],
+    images: ['https://plus.unsplash.com/premium_photo-1680497811614-4f93025d7e57?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'],
   },
   alternates: {
     canonical: '/blog/-flights-cheap-guide-',
@@ -43,7 +43,7 @@ export default function BlogPostPage() {
     readTime: 12,
     category: 'טיולים ונופש',
     tags: ["טיסות","יוון","חופשה","טיסות זולות"],
-    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    image: 'https://plus.unsplash.com/premium_photo-1680497811614-4f93025d7e57?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     authorName: 'צוות טיסות זולות',
     authorAvatar: '/author-avatar.svg',
     authorBio: 'מומחים בתחום הטיסות והנסיעות עם ניסיון של שנים במציאת טיסות זולות.',

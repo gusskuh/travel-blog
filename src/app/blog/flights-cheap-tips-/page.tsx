@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     tags: ["טיסות","אפריקה","חסכון","נסיעות"],
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+        url: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5',
         width: 800,
         height: 600,
         alt: 'טיסות זולות לאפריקה: כל הטיפים שאתם צריכים לדעת - מדריך מקיף טיפים מקצועיים כלים מומלצים',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'טיסות זולות לאפריקה: כל הטיפים שאתם צריכים לדעת - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
     description: 'מדריך מקיף זה יעזור לכם למצוא טיסות זולות לאפריקה. אנחנו מציעים טיפים מעשיים, כלים ומתודות שיסייעו לכם למקסם את החסכון ש... מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
-    images: ['https://images.unsplash.com/photo-1488646953014-85cb44e25828'],
+    images: ['https://images.unsplash.com/photo-1516026672322-bc52d61a55d5'],
   },
   alternates: {
     canonical: '/blog/flights-cheap-tips-',
@@ -43,7 +43,7 @@ export default function BlogPostPage() {
     readTime: 12,
     category: 'טיפים לנוסעים',
     tags: ["טיסות","אפריקה","חסכון","נסיעות"],
-    image: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+    image: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5',
     authorName: 'צוות טיסות זולות',
     authorAvatar: '/author-avatar.svg',
     authorBio: 'מומחים בתחום הטיסות והנסיעות עם ניסיון של שנים במציאת טיסות זולות.',

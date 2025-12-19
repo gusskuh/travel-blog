@@ -91,14 +91,14 @@ const CONFIG = {
     // Regional destinations
     'אסיה': 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf',
     'אירופה': 'https://images.unsplash.com/photo-1467269204594-9661b134dd2b',
-    'אמריקה': 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+    'אמריקה': 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     'אפריקה': 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5',
     'אוסטרליה': 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4',
     
     // Specific cities/countries
     'ברלין': 'https://images.unsplash.com/photo-1587330979470-3595ac045cd0',
-    'קפריסין': 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
-    'יוון': 'https://images.unsplash.com/photo-1570077188660-9787d3f8c4b8',
+    'קפריסין': 'https://images.unsplash.com/photo-1617871109543-6ee1791d7f17?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    'יוון': 'https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     'ספרד': 'https://images.unsplash.com/photo-1539037116277-4db20889f2d4',
     'איטליה': 'https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b',
     'צרפת': 'https://images.unsplash.com/photo-1502602898536-47ad22581b52',
@@ -114,13 +114,13 @@ const CONFIG = {
     'ביטול': 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d',
     'השכרת רכב': 'https://images.unsplash.com/photo-1449824913935-59a10b8d2000',
     'מלונות': 'https://images.unsplash.com/photo-1566073771259-6a8506099945',
-    'חבילות': 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+    'חבילות': 'https://images.unsplash.com/photo-1502784444187-359ac186c5bb?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     
     // Travel tips
     'אריזה': 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62',
     'ילדים': 'https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9',
     'מסמכים': 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c',
-    'הכנה': 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+    'הכנה': 'https://images.unsplash.com/photo-1501426026826-31c667bdf23d?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     'בעלי חיים': 'https://images.unsplash.com/photo-1601758228041-f3b2795255f1',
     
     // Seasonal
@@ -132,15 +132,17 @@ const CONFIG = {
     
     // Default images for general topics
     'טיסות': 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
-    'טיפים': 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
-    'מדריך': 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
+    'טיפים': 'https://images.unsplash.com/photo-1440778303588-435521a205bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    'מדריך': 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     'חיסכון': 'https://images.unsplash.com/photo-1554224155-6726b3ff858f',
-    'נסיעות': 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
+    'נסיעות': 'https://images.unsplash.com/photo-1596120236172-231999844ade?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     
     // Additional fallback images for better variety
-    'default1': 'https://images.unsplash.com/photo-1469474968028-56623f02e42e',
-    'default2': 'https://images.unsplash.com/photo-1488646953014-85cb44e25828',
-    'default3': 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05'
+    'default1': 'https://plus.unsplash.com/premium_photo-1661964304872-7b715cf38cd1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    'default2': 'https://images.unsplash.com/photo-1602002418816-5c0aeef426aa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    'default3': 'https://plus.unsplash.com/premium_photo-1680497811614-4f93025d7e57?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    'default4': 'https://plus.unsplash.com/premium_photo-1679619558250-41fa96ef187c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    'default5': 'https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   }
 };
 
@@ -204,7 +206,9 @@ class BlogPostGenerator {
       CONFIG.IMAGE_MAPPING['נסיעות'],
       CONFIG.IMAGE_MAPPING['default1'],
       CONFIG.IMAGE_MAPPING['default2'],
-      CONFIG.IMAGE_MAPPING['default3']
+      CONFIG.IMAGE_MAPPING['default3'],
+      CONFIG.IMAGE_MAPPING['default4'],
+      CONFIG.IMAGE_MAPPING['default5']
     ];
     
     return defaultImages[Math.floor(Math.random() * defaultImages.length)];
