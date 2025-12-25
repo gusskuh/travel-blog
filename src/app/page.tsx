@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1766657954918',
+    title: 'מצאו טיסות זולות לאסיה: המדריך המלא',
+    excerpt: 'אינטרנט מצפה באתרים שמציעים טיסות זולות, אך איך אפשר לדעת איזה מהם הכי משתלם? כאן תמצאו כל מה שאתם צריכים לדעת כדי למצוא טיסות זולות לאסיה.',
+    publishedAt: '2025-12-25',
+    readTime: 12,
+    category: 'חדשות תעופה',
+    tags: ["טיסות","אסיה","חיפוש טיסות","טיסה"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-asia-guide-complete'
+  },
+  {
     id: '1766398804843',
     title: 'מציאת טיסות זולות להודו: מדריך מקצועי',
     excerpt: 'מחפשים טיסה זולה להודו? בפוסט זה נעבור על הכלים, האתרים המובילים והטיפים המקצועיים כדי למצוא את הטיסה הזולה ביותר ליעד המרהיב הזה.',
