@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1767608553291',
+    title: 'מציאת טיסות זולות לאיטליה: טיפים לחיסכון',
+    excerpt: 'מחפשים טיסות זולות לאיטליה? בפוסט זה תמצאו טיפים מקצועיים ושיטות יעילות לחסכון משמעותי בהזמנת טיסות לאיטליה. ',
+    publishedAt: '2026-01-05',
+    readTime: 12,
+    category: 'טיסות זולות',
+    tags: ["איטליה","טיסות","חסכון","טיפים"],
+    image: 'https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b',
+    url: '/blog/-flights-cheap-tips-savings'
+  },
+  {
     id: '1767262810806',
     title: 'מציאת טיסות זולות לצרפת: טיפים ואסטרטגיות',
     excerpt: 'המדריך המקיף שלנו יעזור לכם למצוא את הטיסות הזולות ביותר לצרפת, עם המון טיפים, כלים ואסטרטגיות שיפשטו את החיפוש שלכם ויחסכו לכם כסף.',
