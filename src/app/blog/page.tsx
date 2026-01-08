@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1767867706314',
+    title: 'מציאת טיסות זולות לאירופה: המדריך המלא',
+    excerpt: 'טיסות לאירופה יכולות להיות יקרות, אך יש לא מעט דרכים למצוא מסלולים זולים יותר. אנו מציעים מדריך מקיף שיימנע ממכם את התסכול של שלמות יותר מדי.',
+    publishedAt: '2026-01-08',
+    readTime: 12,
+    category: 'חדשות תעופה',
+    tags: ["טיסות","אירופה","חיסכון","טיסות זולות","תעופה"],
+    image: 'https://images.unsplash.com/photo-1467269204594-9661b134dd2b',
+    url: '/blog/-flights-cheap-europe-guide-complete'
+  },
+  {
     id: '1767608553292',
     title: 'מציאת טיסות זולות לאיטליה: טיפים לחיסכון',
     excerpt: 'מחפשים טיסות זולות לאיטליה? בפוסט זה תמצאו טיפים מקצועיים ושיטות יעילות לחסכון משמעותי בהזמנת טיסות לאיטליה. ',
