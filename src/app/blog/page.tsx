@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1768472503852',
+    title: 'כיצד למצוא טיסות זולות לאוסטרליה',
+    excerpt: 'מרכז המידע המוחלט למי שמחפש דרכים לחסוך במחירי טיסות לאוסטרליה. המדריך מספק טיפים וכלים מעשיים למציאת ההצעות הכי זולות ברשת.',
+    publishedAt: '2026-01-15',
+    readTime: 12,
+    category: 'יעדים מומלצים',
+    tags: ["טיסות","אוסטרליה","שוואת מחירים","טיפים","חיסכון"],
+    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4',
+    url: '/blog/-flights-cheap-'
+  },
+  {
     id: '1768213386126',
     title: 'מציאת טיסות זולות לצרפת: המדריך המלא',
     excerpt: 'מחפשים טיסות זולות לצרפת? בפוסט זה נחשוף את כל הטריקים והכלים שיעזרו לכם למצוא את המציאה הבאה שלכם.',
