@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1768818305751',
+    title: 'מצאו טיסות זולות לברלין: טיפים מקצועיים לחיסכון',
+    excerpt: 'כמה טיפים מקצועיים למציאת טיסות זולות לברלין. מהם האתרים הטובים ביותר להשוואת מחירים? מתי הזמן הטוב ביותר להזמין? ואיך להשתמש בכמה טכניקות מסויימות כדי למצוא את הדיל הכי טוב.',
+    publishedAt: '2026-01-19',
+    readTime: 12,
+    category: 'טיפים לחיסכון',
+    tags: ["טיסות","חיסכון","ברלין","טיפים"],
+    image: 'https://images.unsplash.com/photo-1440778303588-435521a205bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-flights-cheap-tips-professional-savings'
+  },
+  {
     id: '1768472503852',
     title: 'כיצד למצוא טיסות זולות לאוסטרליה',
     excerpt: 'מרכז המידע המוחלט למי שמחפש דרכים לחסוך במחירי טיסות לאוסטרליה. המדריך מספק טיפים וכלים מעשיים למציאת ההצעות הכי זולות ברשת.',
