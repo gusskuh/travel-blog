@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1769077487633',
+    title: 'איך לארוז נכון לנסיעה? טיפים ועצות שימושיות',
+    excerpt: 'כמה טיפים ועצות שימושיות לאריזה יעילה ומרשימה לנסיעה. למדו איך לחסוך מקום, למנוע גלימות מיותרות ולהפוך את הנסיעה שלכם לחוויה נעימה ומסודרת יותר.',
+    publishedAt: '2026-01-22',
+    readTime: 12,
+    category: 'טיפים לחיסכון',
+    tags: ["אריזה","נסיעה","טיסות זולות","חופשה"],
+    image: 'https://images.unsplash.com/photo-1440778303588-435521a205bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-tips-'
+  },
+  {
     id: '1768818305751',
     title: 'מצאו טיסות זולות לברלין: טיפים מקצועיים לחיסכון',
     excerpt: 'כמה טיפים מקצועיים למציאת טיסות זולות לברלין. מהם האתרים הטובים ביותר להשוואת מחירים? מתי הזמן הטוב ביותר להזמין? ואיך להשתמש בכמה טכניקות מסויימות כדי למצוא את הדיל הכי טוב.',
