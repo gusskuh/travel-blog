@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1769423024870',
+    title: 'טיסות זולות ליוון: המדריך המלא למציאת המבצעים הטובים ביותר',
+    excerpt: 'יש אינספור דרכים למצוא טיסות זולות ליוון, ובמאמר זה, אנו מציגים לכם את המקומות הטובים ביותר כדי לחפש הכל, מטיסות מוזלות לחבילות נופש משתלמות.',
+    publishedAt: '2026-01-26',
+    readTime: 12,
+    category: 'יעדים מומלצים',
+    tags: ["טיסות","יוון","חופשה","המראה"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/flights-cheap-guide-complete-'
+  },
+  {
     id: '1769077487633',
     title: 'איך לארוז נכון לנסיעה? טיפים ועצות שימושיות',
     excerpt: 'כמה טיפים ועצות שימושיות לאריזה יעילה ומרשימה לנסיעה. למדו איך לחסוך מקום, למנוע גלימות מיותרות ולהפוך את הנסיעה שלכם לחוויה נעימה ומסודרת יותר.',
