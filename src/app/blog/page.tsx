@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1770028877638',
+    title: 'טיסות זולות לדובאי: איך למצוא עסקאות הטיסה הטובות ביותר',
+    excerpt: 'מדריך מעמיק לכל מי שמחפש טיסות זולות לדובאי. דרכים חכמות לחסוך בעלות הטיסה ולמצוא את העסקאות הטובות ביותר.',
+    publishedAt: '2026-02-02',
+    readTime: 12,
+    category: 'נסיעות',
+    tags: ["טיסות","זול","דובאי","עסקאות"],
+    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c',
+    url: '/blog/flights-cheap-'
+  },
+  {
     id: '1769682879110',
     title: 'השכרת רכב בחו"ל - המדריך המלא',
     excerpt: 'כל מה שאתם צריכים לדעת על השכרת רכב בחו"ל. מעצות מקצועיות, המלצות והכלים הנכונים, כדי להבטיח שתהנו מהחופשה שלכם ללא דאגות.',
