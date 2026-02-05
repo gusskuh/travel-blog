@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1770287850070',
+    title: 'טיסות זולות לחופשת החורף: טיפים מקצועיים לחסכון',
+    excerpt: 'מציאת טיסות זולות לחופשת החורף היא משימה שאפשר להתמודד עימה בהצלחה עם הכלים הנכונים. המדריך הזה יסייע לכם לחסוך בטיסות הבאות שלכם.',
+    publishedAt: '2026-02-05',
+    readTime: 12,
+    category: 'טיסות וחופשות',
+    tags: ["טיסות זולות","חופשת חורף","חיסכון","טיפים"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/flights-cheap-tips-professional-'
+  },
+  {
     id: '1770028877638',
     title: 'טיסות זולות לדובאי: איך למצוא עסקאות הטיסה הטובות ביותר',
     excerpt: 'מדריך מעמיק לכל מי שמחפש טיסות זולות לדובאי. דרכים חכמות לחסוך בעלות הטיסה ולמצוא את העסקאות הטובות ביותר.',
