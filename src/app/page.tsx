@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1770634454998',
+    title: 'טיסות זולות לאיטליה: כיצד למצוא את המציאות הבאה',
+    excerpt: 'המדריך המקיף הבא מסביר איך למצוא טיסות זולות לאיטליה, כולל עצות מקצועיות, כלים ואתרים שיסייעו לכם לחסוך בעלויות הטיסה.',
+    publishedAt: '2026-02-09',
+    readTime: 12,
+    category: 'טיולים',
+    tags: ["טיסות","איטליה","טיסות זולות","חיפוש טיסות"],
+    image: 'https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b',
+    url: '/blog/flights-cheap-'
+  },
+  {
     id: '1770287850069',
     title: 'טיסות זולות לחופשת החורף: טיפים מקצועיים לחסכון',
     excerpt: 'מציאת טיסות זולות לחופשת החורף היא משימה שאפשר להתמודד עימה בהצלחה עם הכלים הנכונים. המדריך הזה יסייע לכם לחסוך בטיסות הבאות שלכם.',
