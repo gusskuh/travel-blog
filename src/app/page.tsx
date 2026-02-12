@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1770892906255',
+    title: 'מדריך למציאת טיסות זולות לראש השנה',
+    excerpt: 'מחפשים טיסות זולות לראש השנה? במדריך זה נלמד אתכם כיצד למצוא את המציאות המשתלמת ביותר באמצעות כלים וטריקים של מקצוענים.',
+    publishedAt: '2026-02-12',
+    readTime: 12,
+    category: 'מדריכים מקצועיים',
+    tags: ["טיסות זולות","ראש השנה","חפש טיסות","חופשה"],
+    image: 'https://images.unsplash.com/photo-1596120236172-231999844ade',
+    url: '/blog/guide-flights-cheap-'
+  },
+  {
     id: '1770634454998',
     title: 'טיסות זולות לאיטליה: כיצד למצוא את המציאות הבאה',
     excerpt: 'המדריך המקיף הבא מסביר איך למצוא טיסות זולות לאיטליה, כולל עצות מקצועיות, כלים ואתרים שיסייעו לכם לחסוך בעלויות הטיסה.',
