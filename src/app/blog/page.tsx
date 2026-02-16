@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1771238733281',
+    title: 'טיסות זולות לאמריקה: מדריך לביטולים והחזרים',
+    excerpt: 'מדריך מקיף לישראלים שמחפשים טיסות זולות לאמריקה, כולל מידע מקיף על תהליכי ביטול והחזרים, וטיפים מקצועיים על איך למצוא את הדילים הכי טובים.',
+    publishedAt: '2026-02-16',
+    readTime: 12,
+    category: 'תיירות וטיסות',
+    tags: ["טיסות","אמריקה","ביטולים","החזרים","דילים"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/flights-cheap-america-guide-'
+  },
+  {
     id: '1770892906256',
     title: 'מדריך למציאת טיסות זולות לראש השנה',
     excerpt: 'מחפשים טיסות זולות לראש השנה? במדריך זה נלמד אתכם כיצד למצוא את המציאות המשתלמת ביותר באמצעות כלים וטריקים של מקצוענים.',
