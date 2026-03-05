@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1772706950108',
+    title: 'טיפים למציאת טיסות זולות לטורקיה',
+    excerpt: 'מחפשים טיסות זולות לטורקיה? באמצעות הכלים הנכונים, קצת גמישות ומעט מזל, תוכלו למצוא טיסות במחירים נמוכים. הנה מדריך מקיף לכל מה שאתם צריכים לדעת.',
+    publishedAt: '2026-03-05',
+    readTime: 12,
+    category: 'טיולים',
+    tags: ["טיסות זולות","טורקיה","חיסכון","טיסה"],
+    image: 'https://images.unsplash.com/photo-1440778303588-435521a205bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/tips-flights-cheap-'
+  },
+  {
     id: '1772448007163',
     title: 'מצאו את הטיסות הזולות ביותר לחופשת החורף',
     excerpt: 'טיסות זולות לחופשת החורף הן בהחלט אפשריות. במאמר זה, נדריך אתכם כיצד למצוא את המציאות הטובות ביותר ולתכנן חופשה זולה ומשתלמת.',
