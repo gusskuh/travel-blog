@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1773052923578',
+    title: 'מציאת טיסות זולות להודו: המדריך המלא',
+    excerpt: 'במדריך זה אנו נדריך אתכם צעד אחר צעד כיצד למצוא טיסות זולות להודו, אילו אתרים להשתמש ואיך לנצל את המבצעים הכי טובים ברשת.',
+    publishedAt: '2026-03-09',
+    readTime: 12,
+    category: 'מדריכים',
+    tags: ["טיסות זולות","הודו","חיפוש טיסות","מדריך"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-flights-cheap-guide-complete'
+  },
+  {
     id: '1772706950108',
     title: 'טיפים למציאת טיסות זולות לטורקיה',
     excerpt: 'מחפשים טיסות זולות לטורקיה? באמצעות הכלים הנכונים, קצת גמישות ומעט מזל, תוכלו למצוא טיסות במחירים נמוכים. הנה מדריך מקיף לכל מה שאתם צריכים לדעת.',
