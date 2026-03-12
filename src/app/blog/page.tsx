@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1773311718072',
+    title: 'מציאת טיסות זולות לראש השנה: המדריך המלא',
+    excerpt: 'חג הראש השנה הוא הזמן המושלם לטוס לנופש. נלמד איך למצוא את הדילים הכי זולים ולהכין מטייל חג בלתי נשכח.',
+    publishedAt: '2026-03-12',
+    readTime: 12,
+    category: 'חדשות תעופה',
+    tags: ["טיסות","ראש השנה","חופשה","טיסות זולות"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-flights-cheap-guide-complete'
+  },
+  {
     id: '1773052923579',
     title: 'מציאת טיסות זולות להודו: המדריך המלא',
     excerpt: 'במדריך זה אנו נדריך אתכם צעד אחר צעד כיצד למצוא טיסות זולות להודו, אילו אתרים להשתמש ואיך לנצל את המבצעים הכי טובים ברשת.',
