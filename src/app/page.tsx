@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1773916626258',
+    title: 'מסמכים נדרשים לנסיעה לחו"ל: כל מה שאתה צריך לדעת',
+    excerpt: 'בדקנו עבורך את כל המסמכים הנדרשים לנסיעה לחו"ל, עם דגש על כל הנושאים הרלוונטיים והמעודכנים ביותר. מסמכים לטיסה, ביטוחי נסיעה, ועוד.',
+    publishedAt: '2026-03-19',
+    readTime: 12,
+    category: 'יעדים מומלצים',
+    tags: ["נסיעות","חו\"ל","מסמכים","טיסות"],
+    image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c',
+    url: '/blog/-'
+  },
+  {
     id: '1773311718071',
     title: 'מציאת טיסות זולות לראש השנה: המדריך המלא',
     excerpt: 'חג הראש השנה הוא הזמן המושלם לטוס לנופש. נלמד איך למצוא את הדילים הכי זולים ולהכין מטייל חג בלתי נשכח.',
