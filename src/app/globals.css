@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
+  --background: #fdfbf3;
   --foreground: #171717;
   --font-hebrew: 'Heebo', system-ui, sans-serif;
 }
