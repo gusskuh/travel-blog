@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1774868435825',
+    title: 'ביטוח נסיעות לחו"ל - כל מה שצריך לדעת',
+    excerpt: 'ביטוח נסיעות לחו"ל הוא נושא חשוב לכל נוסע ישראלי. המדריך הזה מספק טיפים לבחירת ביטוח המתאים, דרכים לחסוך בעלות, ומידע חיוני על מה לעשות במקרה של תאונה או חירום.',
+    publishedAt: '2026-03-30',
+    readTime: 12,
+    category: 'טיפים לנוסעים',
+    tags: ["ביטוח נסיעות","נסיעה לחו\"ל","טיפים לנוסע"],
+    image: 'https://images.unsplash.com/photo-1596120236172-231999844ade?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-travel-'
+  },
+  {
     id: '1774522251197',
     title: 'חופשת החורף הבאה: איך למצוא טיסות זולות?',
     excerpt: 'במדריך זה, אנו מספקים טיפים מקצועיים למציאת טיסות זולות לחופשת החורף. נגלה את האתרים הטובים ביותר להשוואת מחירים, המלצות לתכנון מראש וטכניקות מתקדמות לחיסכון משמעותי במחיר הטיסה.',
