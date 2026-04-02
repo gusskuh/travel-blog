@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1775126930452',
+    title: 'טיסות זולות לקפריסין: הדרך לחסוך בנסיעה הבאה שלכם',
+    excerpt: 'מצאו את הטיסות הזולות ביותר לקפריסין דרך אתרים מקוונים, כלים וטכניקות חסכניות. המדריך המקיף שלנו יעזור לכם למצוא את ההצעות הטובות ביותר.',
+    publishedAt: '2026-04-02',
+    readTime: 12,
+    category: 'חדשות תעופה',
+    tags: ["טיסות זולות","קפריסין","חיפוש טיסות","חסכון"],
+    image: 'https://images.unsplash.com/photo-1617871109543-6ee1791d7f17?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/flights-cheap-'
+  },
+  {
     id: '1774868435824',
     title: 'ביטוח נסיעות לחו"ל - כל מה שצריך לדעת',
     excerpt: 'ביטוח נסיעות לחו"ל הוא נושא חשוב לכל נוסע ישראלי. המדריך הזה מספק טיפים לבחירת ביטוח המתאים, דרכים לחסוך בעלות, ומידע חיוני על מה לעשות במקרה של תאונה או חירום.',
