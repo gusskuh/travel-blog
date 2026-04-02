@@ -277,7 +277,7 @@ const mockPosts = [
     readTime: 12,
     category: 'ביטוח נסיעות',
     tags: ["טיסות","צרפת","חיפוש טיסות","כלים לחיפוש טיסות"],
-    image: 'https://images.unsplash.com/photo-1502602898536-47ad22581b52',
+    image: 'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f',
     url: '/blog/-flights-cheap-tips-'
   },
   {

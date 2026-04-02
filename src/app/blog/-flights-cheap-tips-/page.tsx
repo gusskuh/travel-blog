@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     tags: ["טיסות","צרפת","חיפוש טיסות","כלים לחיפוש טיסות"],
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1502602898536-47ad22581b52',
+        url: 'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f',
         width: 800,
         height: 600,
         alt: 'מציאת טיסות זולות לצרפת: טיפים ואסטרטגיות - מדריך מקיף טיפים מקצועיים כלים מומלצים',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'מציאת טיסות זולות לצרפת: טיפים ואסטרטגיות - מדריך מקיף טיפים מקצועיים כלים מומלצים 2025',
     description: 'המדריך המקיף שלנו יעזור לכם למצוא את הטיסות הזולות ביותר לצרפת, עם המון טיפים, כלים ואסטרטגיות שיפשטו את החיפוש שלכם ויח... מדריך מקיף, טיפים מקצועיים, כלים מומלצים. מדריך מקצועי עם טיפים וכלים מומלצים.',
-    images: ['https://images.unsplash.com/photo-1502602898536-47ad22581b52'],
+    images: ['https://images.unsplash.com/photo-1511739001486-6bfe10ce785f'],
   },
   alternates: {
     canonical: '/blog/-flights-cheap-tips-',
@@ -43,7 +43,7 @@ export default function BlogPostPage() {
     readTime: 12,
     category: 'ביטוח נסיעות',
     tags: ["טיסות","צרפת","חיפוש טיסות","כלים לחיפוש טיסות"],
-    image: 'https://images.unsplash.com/photo-1502602898536-47ad22581b52',
+    image: 'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f',
     authorName: 'צוות טיסות זולות',
     authorAvatar: '/author-avatar.svg',
     authorBio: 'מומחים בתחום הטיסות והנסיעות עם ניסיון של שנים במציאת טיסות זולות.',

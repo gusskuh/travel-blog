@@ -101,7 +101,7 @@ const CONFIG = {
     'יוון': 'https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     'ספרד': 'https://images.unsplash.com/photo-1539037116277-4db20889f2d4',
     'איטליה': 'https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b',
-    'צרפת': 'https://images.unsplash.com/photo-1502602898536-47ad22581b52',
+    'צרפת': 'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f',
     'אנגליה': 'https://images.unsplash.com/photo-1543832923-44667a44c804?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     'טורקיה': 'https://images.unsplash.com/photo-1524231757912-21f4fe3a7200',
     'תאילנד': 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a',
