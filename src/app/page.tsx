@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1776078996754',
+    title: 'טיסות זולות להודו: המדריך המלא',
+    excerpt: 'מחפשים טיסות זולות להודו? במאמר זה נספק לכם טיפים מעשיים ומקורות מומלצים למציאת הדיל הכי טוב שיש.',
+    publishedAt: '2026-04-13',
+    readTime: 12,
+    category: 'נסיעות',
+    tags: ["טיסות","הודו","חסכון","תכנון נסיעה"],
+    image: 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da',
+    url: '/blog/flights-cheap-guide-complete'
+  },
+  {
     id: '1775472785990',
     title: 'כיצד להזמין מלונות זולים בחו"ל?',
     excerpt: 'במדריך זה נלמד איך למצוא מלונות זולים בחו"ל באמצעות אתרים מקוונים, אפליקציות וטיפים מקצועיים.',
