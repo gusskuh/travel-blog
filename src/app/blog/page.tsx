@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1776337220950',
+    title: 'טיסות זולות לחופשת הפסח: תכנון, השוואות וטיפים לחיסכון',
+    excerpt: 'המדריך המלא למציאת טיסות זולות לחופשת הפסח. כולל טיפים מקצועיים, אתרי השוואה מומלצים ואסטרטגיות חיסכון לנוסע החכם.',
+    publishedAt: '2026-04-16',
+    readTime: 12,
+    category: 'טיפים לנוסעים',
+    tags: ["טיסות זולות","חופשת פסח","אתרי השוואה","חיסכון"],
+    image: 'https://images.unsplash.com/photo-1596120236172-231999844ade',
+    url: '/blog/flights-cheap-tips-savings'
+  },
+  {
     id: '1776078996755',
     title: 'טיסות זולות להודו: המדריך המלא',
     excerpt: 'מחפשים טיסות זולות להודו? במאמר זה נספק לכם טיפים מעשיים ומקורות מומלצים למציאת הדיל הכי טוב שיש.',
