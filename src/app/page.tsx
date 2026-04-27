@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1777290156411',
+    title: 'מציאת טיסות זולות לאוסטרליה: טיפים, כלים ואתרים מומלצים',
+    excerpt: 'אוסטרליה, יעד שבו אי אפשר להגיע בלי טיסה ארוכה ויקרה. אך עם מידע נכון ותכנון מוקדם, ניתן למצוא טיסות זולות וחסכוניות.',
+    publishedAt: '2026-04-27',
+    readTime: 12,
+    category: 'יעדים מומלצים',
+    tags: ["טיסות","אוסטרליה","חיסכון","טיסות זולות"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-tips-recommended'
+  },
+  {
     id: '1776337220949',
     title: 'טיסות זולות לחופשת הפסח: תכנון, השוואות וטיפים לחיסכון',
     excerpt: 'המדריך המלא למציאת טיסות זולות לחופשת הפסח. כולל טיפים מקצועיים, אתרי השוואה מומלצים ואסטרטגיות חיסכון לנוסע החכם.',
