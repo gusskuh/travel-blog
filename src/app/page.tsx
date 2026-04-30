@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1777548353717',
+    title: 'מדריך למציאת טיסות זולות לברלין',
+    excerpt: 'טיסה לברלין אינה חייבת להכות את הכיס שלך. במאמר זה, אנו מגלים את הטריקים והטיפים למציאת טיסות זולות לברלין.',
+    publishedAt: '2026-04-30',
+    readTime: 12,
+    category: 'תיירות',
+    tags: ["טיסות זולות","תיירות בברלין","חיפוש טיסות","חסכון בטיסות"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/guide-flights-cheap-'
+  },
+  {
     id: '1777290156411',
     title: 'מציאת טיסות זולות לאוסטרליה: טיפים, כלים ואתרים מומלצים',
     excerpt: 'אוסטרליה, יעד שבו אי אפשר להגיע בלי טיסה ארוכה ויקרה. אך עם מידע נכון ותכנון מוקדם, ניתן למצוא טיסות זולות וחסכוניות.',
