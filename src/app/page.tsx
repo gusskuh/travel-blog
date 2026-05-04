@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1777895119577',
+    title: 'ביטול טיסות - איך לקבל החזר כספי',
+    excerpt: 'המדריך המקיף שלנו לקבלת החזר כספי על טיסות שבוטלו. למדו את הזכויות שלכם, השלבים למינימיזציה של הפסדים ואיך להבטיח שאתם מקבלים את מה שאתם זכאים לו.',
+    publishedAt: '2026-05-04',
+    readTime: 12,
+    category: 'טיסות',
+    tags: ["טיסות","החזר כספי","ביטול טיסות","זכויות נוסעים"],
+    image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d',
+    url: '/blog/-flights-'
+  },
+  {
     id: '1777548353717',
     title: 'מדריך למציאת טיסות זולות לברלין',
     excerpt: 'טיסה לברלין אינה חייבת להכות את הכיס שלך. במאמר זה, אנו מגלים את הטריקים והטיפים למציאת טיסות זולות לברלין.',
