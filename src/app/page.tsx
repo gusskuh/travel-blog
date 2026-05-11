@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1778503072898',
+    title: 'מציאת טיסות זולות לחופשת הפסח: מדריך מקצועי',
+    excerpt: 'המדריך הזה מסביר איך למצוא טיסות זולות לחופשת הפסח. נתמקד באתרי השוואת מחירים, כלים חינמיים, וטכניקות שימושיות שיסייעו לכם לחסוך כסף.',
+    publishedAt: '2026-05-11',
+    readTime: 12,
+    category: 'תיירות ונופש',
+    tags: ["טיסות זולות","חופשת פסח","השוואת מחירים","חסכון"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-flights-cheap-guide-'
+  },
+  {
     id: '1778154291231',
     title: 'המסמכים הנדרשים לנסיעה לחו"ל - מדריך מקיף',
     excerpt: 'תכנון נסיעה לחו"ל הוא תהליך מרתק אך גם מסובך, שמחייב ביצוע של מספר פעולות והשגת מסמכים. במאמר זה נסקור את המסמכים הנדרשים לנסיעה לחו"ל.',
