@@ -53,24 +53,24 @@ export default function Footer() {
             <h4 className="text-lg font-semibold mb-4 hebrew-text">קטגוריות פופולריות</h4>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-gray-300 hover:text-white transition-colors hebrew-text">
+                <Link href="/blog/-flights-cheap-europe-guide-complete" className="text-gray-300 hover:text-white transition-colors hebrew-text">
                   טיסות זולות לאירופה
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-white transition-colors hebrew-text">
+                <Link href="/blog/-flights-cheap-asia-guide-complete" className="text-gray-300 hover:text-white transition-colors hebrew-text">
                   טיסות זולות לאסיה
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-white transition-colors hebrew-text">
+                <Link href="/blog/-flights-cheap-tips-savings" className="text-gray-300 hover:text-white transition-colors hebrew-text">
                   טיפים לחיסכון
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-white transition-colors hebrew-text">
+                <Link href="/blog/-flights-cheap-tips-recommended" className="text-gray-300 hover:text-white transition-colors hebrew-text">
                   מדריכי יעדים
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
