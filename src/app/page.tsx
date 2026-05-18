@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1779111735353',
+    title: 'מסע ארוך באוויר: כיצד להתכונן בהצלחה',
+    excerpt: 'מסעות אוויר ארוכים יכולים להיות מאתגרים. במאמר זה, אנו נעזור לכם להתכונן היטב לנסיעה ארוכה, כולל המלצות על כיצד למצוא טיסות זולות, להביא את הציוד הנכון, ולשמור על הבריאות שלכם באוויר.',
+    publishedAt: '2026-05-18',
+    readTime: 12,
+    category: 'ביטול והחזרים',
+    tags: ["נסיעות","טיסות","הכנה לנסיעה","טיפים לנסיעה"],
+    image: 'https://plus.unsplash.com/premium_photo-1679619558250-41fa96ef187c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-'
+  },
+  {
     id: '1778759370047',
     title: 'מסמכים נדרשים לנסיעה לחו"ל: הכל מהכל',
     excerpt: 'מסמך מזהה בעל תוקף, ויזה תקנית, או שובר ביטוח חובה? יש לכם את כל מה שנדרש לנסיעה לחו"ל? הכנו מדריך מקיף שיסייע לכם להכין את כל המסמכים בצורה נכונה.',
