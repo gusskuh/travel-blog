@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1779713968122',
+    title: 'מצאו טיסות זולות לתאילנד - המדריך המלא',
+    excerpt: 'כתבה זו מספקת טיפים וטריקים מקצועיים למציאת טיסות זולות לתאילנד. אנו משתפים אתכם באתרים, כלים וטכניקות שיכולים להקל על החיפוש שלכם.',
+    publishedAt: '2026-05-25',
+    readTime: 12,
+    category: 'חדשות תעופה',
+    tags: ["טיסות זולות","תאילנד","חדשות תעופה","טיפים לנוסע"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-guide-complete'
+  },
+  {
     id: '1779367378864',
     title: 'השכרת רכב בחו"ל - המדריך המלא',
     excerpt: 'כדי למקסם את חווית המסע שלכם, חשוב להכיר את האפשרויות והטריקים בהשכרת רכב בחו"ל. במאמר זה, נעביר אותכם דרך התהליך מההתחלה ועד הסוף, עם טיפים מועילים לכל שלב.',
