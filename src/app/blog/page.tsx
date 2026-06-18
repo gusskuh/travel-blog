@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1781786954361',
+    title: 'מציאת טיסות זולות לצרפת: מדריך מקיף',
+    excerpt: 'מציאת טיסות זולות לצרפת היא משימה מאתגרת, אך לא בלתי אפשרית. במאמר זה, נחקור כמה דרכים שונות למצוא טיסות במחירים משתלמים לעיר האורות.',
+    publishedAt: '2026-06-18',
+    readTime: 12,
+    category: 'חבילות נסיעה',
+    tags: ["טיסות","צרפת","חבילות נסיעה","מחירים זולים"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-flights-cheap-guide-'
+  },
+  {
     id: '1780927419976',
     title: 'ביטול טיסות - איך לקבל החזר כספי',
     excerpt: 'המדריך המלא לקבלת החזר כספי על טיסות שבוטלו, מתוך שמירה על זכויות הנוסעים והגנה על האינטרסים שלכם.',
