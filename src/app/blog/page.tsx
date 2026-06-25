@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1782389707784',
+    title: 'מדריך למציאת טיסות זולות לצרפת',
+    excerpt: 'איך למצוא טיסות זולות לצרפת? כלים, שיטות וטריקים שיסייעו לכם לחסוך כסף בטיסות הבאות שלכם.',
+    publishedAt: '2026-06-25',
+    readTime: 12,
+    category: 'מדריכים מקצועיים',
+    tags: ["טיסות","צרפת","טיסות זולות","חיסכון"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/guide-flights-cheap-'
+  },
+  {
     id: '1781786954361',
     title: 'מציאת טיסות זולות לצרפת: מדריך מקיף',
     excerpt: 'מציאת טיסות זולות לצרפת היא משימה מאתגרת, אך לא בלתי אפשרית. במאמר זה, נחקור כמה דרכים שונות למצוא טיסות במחירים משתלמים לעיר האורות.',
