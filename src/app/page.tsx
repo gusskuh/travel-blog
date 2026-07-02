@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1782994097298',
+    title: 'איך להתכונן לנסיעה ארוכה: טיפים מקצועיים לנוסעים ישראלים',
+    excerpt: 'הכנה לנסיעה ארוכה מחייבת תכנון מדויק וקפדני. בפוסט זה אנו מציגים טיפים מקצועיים, כלים ומתהדרים להפוך את הנסיעה שלכם לקלה, נעימה וחסכונית.',
+    publishedAt: '2026-07-02',
+    readTime: 12,
+    category: 'טיפים לנוסעים',
+    tags: ["נסיעה","תכנון","כלים","אתרים","טיסות זולות"],
+    image: 'https://images.unsplash.com/photo-1440778303588-435521a205bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-tips-professional-israel'
+  },
+  {
     id: '1782389707784',
     title: 'מדריך למציאת טיסות זולות לצרפת',
     excerpt: 'איך למצוא טיסות זולות לצרפת? כלים, שיטות וטריקים שיסייעו לכם לחסוך כסף בטיסות הבאות שלכם.',
