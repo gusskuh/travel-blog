@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1783600481508',
+    title: 'המדריך להזמנת מלונות זולים בחו''ל',
+    excerpt: 'המדריך שלנו מספק את כל הטיפים והטריקים שאתם צריכים להזמנת מלונות זולים בחו''ל. החל מאתרי השוואת מחירים ועד כלים מתקדמים לחיפוש והזמנה.',
+    publishedAt: '2026-07-09',
+    readTime: 12,
+    category: 'חדשות תעופה',
+    tags: ["הזמנת מלונות","מלונות זולים","חופשה בחו''ל","טיפים לחיפוש מלונות"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/guide-'
+  },
+  {
     id: '1783345318482',
     title: 'כיצד למצוא טיסות זולות לחופשת החורף',
     excerpt: 'מדריך מקיף המסביר איך למצוא טיסות זולות לחופשת החורף. המדריך כולל טכניקות, אתרים מומלצים וטיפים מקצועיים.',
