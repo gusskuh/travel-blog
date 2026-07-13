@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1783945737366',
+    title: 'טיסות זולות לאפריקה: המדריך המלא לחיסכון מקסימלי',
+    excerpt: 'החיפוש אחר טיסות זולות לאפריקה הוא משימה שאינה פשוטה. במדריך זה, נספק לכם את כל הכלים והטיפים הנדרשים למצוא את המחירים הכי זולים עבורכם.',
+    publishedAt: '2026-07-13',
+    readTime: 12,
+    category: 'טיפים לחיסכון',
+    tags: ["טיסות זולות","אפריקה","חיסכון","טיפים"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/flights-cheap-guide-complete-savings-'
+  },
+  {
     id: '1783600481508',
     title: 'המדריך להזמנת מלונות זולים בחו''ל',
     excerpt: 'המדריך שלנו מספק את כל הטיפים והטריקים שאתם צריכים להזמנת מלונות זולים בחו''ל. החל מאתרי השוואת מחירים ועד כלים מתקדמים לחיפוש והזמנה.',
