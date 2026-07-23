@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1784807344921',
+    title: 'איך לארוז נכון לנסיעה: מדריך מקצועי',
+    excerpt: 'האריזה לנסיעה יכולה להיות משימה מאתגרת. במאמר זה, אנו מתמקדים בטיפים מעשיים ועצות בנושא אריזה לנסיעה שיסייעו לכם להכין את המזוודה שלכם בצורה מקצועית.',
+    publishedAt: '2026-07-23',
+    readTime: 12,
+    category: 'ביטוח נסיעות',
+    tags: ["אריזה לנסיעה","טיסות זולות","כלים לאריזה","חברות טיסות"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-guide-'
+  },
+  {
     id: '1784549643131',
     title: 'מדריך למציאת טיסות זולות לטורקיה',
     excerpt: 'טיסות זולות לטורקיה הן לא מיתוס. במדריך זה נלמד איך למצוא אותן אונליין באמצעות כלים ואתרים שונים.',
