@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1785761593858',
+    title: 'השכרת רכב בחו"ל - המדריך המלא',
+    excerpt: 'מדריך מקיף זה יעזור לכם להבין את העולם של השכרת רכבים בחו"ל, כולל טיפים לחיסכון, נושאי ביטוח, השוואת מחירים ועוד.',
+    publishedAt: '2026-08-03',
+    readTime: 12,
+    category: 'נסיעות וטיולים',
+    tags: ["השכרת רכב","חסכון","טיסות זולות","חו\"ל"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-guide-complete'
+  },
+  {
     id: '1785412145502',
     title: 'הדרך להזמנת מלונות זולים בחו"ל',
     excerpt: 'מדריך מקיף למציאת מלונות זולים בחו"ל ולחסוך בהוצאות הנסיעה. נסביר איך למצוא מחירים טובים, להשוות בין אתרים שונים ולהשתמש בכלים מתקדמים למציאת הדילים הכי שווים.',
