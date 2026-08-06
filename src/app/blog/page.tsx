@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1786017644778',
+    title: 'מציאת טיסות זולות ליפן: כלים, טיפים ואסטרטגיות',
+    excerpt: 'חופשה ביפן היא חוויה מרהיבה, אך המחירים של הטיסות יכולים להיות גבוהים. בפוסט הזה, נדריך אתכם כיצד למצוא טיסות זולות ליפן עם כלים, אסטרטגיות וטיפים מעשיים.',
+    publishedAt: '2026-08-06',
+    readTime: 12,
+    category: 'טיסות',
+    tags: ["טיסות זולות","יפן","תכנון טיול","חיסכון"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-tips-'
+  },
+  {
     id: '1785761593859',
     title: 'השכרת רכב בחו"ל - המדריך המלא',
     excerpt: 'מדריך מקיף זה יעזור לכם להבין את העולם של השכרת רכבים בחו"ל, כולל טיפים לחיסכון, נושאי ביטוח, השוואת מחירים ועוד.',
