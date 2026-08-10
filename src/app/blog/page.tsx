@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1786359855404',
+    title: 'מסמכים נדרשים לנסיעה לחו"ל: המדריך המלא',
+    excerpt: 'מתכננים נסיעה לחו"ל? איזה מסמכים נדרשים? פוסט זה מספק מדריך מקיף למסמכים הכרחיים לנסיעה לחו"ל.',
+    publishedAt: '2026-08-10',
+    readTime: 12,
+    category: 'חבילות נסיעה',
+    tags: ["נסיעה לחו\"ל","מסמכים","טיסות זולות","תיירות"],
+    image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c',
+    url: '/blog/-guide-complete'
+  },
+  {
     id: '1786017644778',
     title: 'מציאת טיסות זולות ליפן: כלים, טיפים ואסטרטגיות',
     excerpt: 'חופשה ביפן היא חוויה מרהיבה, אך המחירים של הטיסות יכולים להיות גבוהים. בפוסט הזה, נדריך אתכם כיצד למצוא טיסות זולות ליפן עם כלים, אסטרטגיות וטיפים מעשיים.',
