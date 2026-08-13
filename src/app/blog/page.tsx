@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1786618716239',
+    title: 'טיסות זולות ליפן: כיצד למצוא את הדיל המשתלם ביותר',
+    excerpt: 'מחפשים טיסות זולות ליפן? המדריך הזה ידריך אתכם צעד אחר צעד כיצד למצוא את הדילים הטובים ביותר, תוך שמירה על איכות הטיסה והנוחות.',
+    publishedAt: '2026-08-13',
+    readTime: 12,
+    category: 'יעדים מומלצים',
+    tags: ["טיסות","יפן","טיסות זולות","רכישת טיסות"],
+    image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e',
+    url: '/blog/flights-cheap-'
+  },
+  {
     id: '1786359855404',
     title: 'מסמכים נדרשים לנסיעה לחו"ל: המדריך המלא',
     excerpt: 'מתכננים נסיעה לחו"ל? איזה מסמכים נדרשים? פוסט זה מספק מדריך מקיף למסמכים הכרחיים לנסיעה לחו"ל.',
