@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1786962456799',
+    title: 'טיסות זולות לאיטליה: המדריך המלא למציאת מציאות',
+    excerpt: 'מחפשים טיסות זולות לאיטליה? במאמר זה נספק לכם את כל הכלים והטיפים למציאת המציאה הבאה שלכם.',
+    publishedAt: '2026-08-17',
+    readTime: 12,
+    category: 'ייעדים מומלצים',
+    tags: ["איטליה","הזמנת טיסות","טיפים לטיסות","חופשה באיטליה"],
+    image: 'https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b',
+    url: '/blog/flights-cheap-guide-complete-'
+  },
+  {
     id: '1786618716239',
     title: 'טיסות זולות ליפן: כיצד למצוא את הדיל המשתלם ביותר',
     excerpt: 'מחפשים טיסות זולות ליפן? המדריך הזה ידריך אתכם צעד אחר צעד כיצד למצוא את הדילים הטובים ביותר, תוך שמירה על איכות הטיסה והנוחות.',
