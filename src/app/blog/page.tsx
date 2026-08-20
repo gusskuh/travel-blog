@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1787221479052',
+    title: 'מסמכים נדרשים לנסיעה לחו"ל: המדריך המלא',
+    excerpt: 'נסיעה לחו"ל מחייבת הכנה מראש וכוללת מספר מסמכים חיוניים. במאמר זה, אנו מסכמים את המסמכים המרכזיים שצריך להכין לפני נסיעה לחו"ל.',
+    publishedAt: '2026-08-20',
+    readTime: 12,
+    category: 'חבילות נסיעה',
+    tags: ["נסיעה לחו\"ל","מסמכים נדרשים","הכנה לנסיעה","דרכונים","ויזות"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/-guide-complete'
+  },
+  {
     id: '1786962456799',
     title: 'טיסות זולות לאיטליה: המדריך המלא למציאת מציאות',
     excerpt: 'מחפשים טיסות זולות לאיטליה? במאמר זה נספק לכם את כל הכלים והטיפים למציאת המציאה הבאה שלכם.',
