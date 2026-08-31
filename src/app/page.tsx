@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1788196956848',
+    title: 'מציאת טיסות זולות לחופשת הסוכות: טיפים והמלצות',
+    excerpt: 'כיצד למצוא טיסות זולות לחופשת הסוכות? טיפים מעשיים, אתרים מומלצים והכנה מוקדמת שתעזור לכם לחסוך במחיר הטיסה.',
+    publishedAt: '2026-08-31',
+    readTime: 12,
+    category: 'תיירות',
+    tags: ["חופשת סוכות","טיסות זולות","אתרי השוואת מחירים","הכנה מוקדמת"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-tips-'
+  },
+  {
     id: '1787861265285',
     title: 'מציאת טיסות זולות לברלין: המדריך המלא',
     excerpt: 'חפשים טיסות זולות לברלין? הפוסט הזה מספק מידע מקיף על כיצד למצוא את הדילים הטובים ביותר ולחסוך כסף בזמן הנסיעה שלך לעיר הגדולה בגרמניה.',
