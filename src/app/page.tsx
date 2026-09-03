@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1788444306908',
+    title: 'טיסות זולות לקפריסין: המדריך המלא לחסכון וביטולים',
+    excerpt: 'המדריך מפרט את השלבים למציאת טיסות זולות לקפריסין, כולל איך לבטל ולקבל החזרים במידה והדבר נדרש. המידע מבוסס על דוגמאות ממשיות ועצות מקצועיות.',
+    publishedAt: '2026-09-03',
+    readTime: 12,
+    category: 'נסיעות',
+    tags: ["טיסות","קפריסין","חסכון","ביטולים","החזרים"],
+    image: 'https://images.unsplash.com/photo-1617871109543-6ee1791d7f17?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/flights-cheap-guide-complete-'
+  },
+  {
     id: '1788196956848',
     title: 'מציאת טיסות זולות לחופשת הסוכות: טיפים והמלצות',
     excerpt: 'כיצד למצוא טיסות זולות לחופשת הסוכות? טיפים מעשיים, אתרים מומלצים והכנה מוקדמת שתעזור לכם לחסוך במחיר הטיסה.',
