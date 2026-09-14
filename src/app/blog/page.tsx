@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1789402081514',
+    title: 'טיפים מועילים לנוסעים עם ילדים: הכנה, טיסה וביטוח',
+    excerpt: 'נסיעה עם ילדים היא משימה מאתגרת, אך עם ההכנה הנכונה, היא יכולה להפוך לחוויה מהנה. בפוסט זה, נתמקד בטיפים שיסייעו לכם להכין את הילדים לנסיעה, להתמודד עם הטיסה ולשרות ביטוח נסיעות מתאים.',
+    publishedAt: '2026-09-14',
+    readTime: 12,
+    category: 'ביטוח נסיעות',
+    tags: ["נסיעות","ילדים","ביטוח","טיסות"],
+    image: 'https://images.unsplash.com/photo-1440778303588-435521a205bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/tips-'
+  },
+  {
     id: '1789048932321',
     title: 'מציאת טיסות זולות לאוסטרליה: טיפים לחיסכון מקצועי',
     excerpt: 'מחפשים טיסות זולות לאוסטרליה? בבלוג זה תמצאו טיפים מקצועיים ושיטות מובחנות לחיסכון במחיר הטיסות, כולל שימוש באתרים להשוואת מחירים, טיפים לתכנון מראש ועוד.',
