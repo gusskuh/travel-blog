@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1789655863238',
+    title: 'טיסות זולות לאנגליה: כלים וטיפים לחיפוש טיסה במחיר המשתלם ביותר',
+    excerpt: 'מדריך מקיף למציאת טיסות זולות לאנגליה, כולל כלים מקוונים, טיפים מקצועיים וטקטיקות שונות שיסייעו לכם לחסוך במסע הבא שלכם.',
+    publishedAt: '2026-09-17',
+    readTime: 12,
+    category: 'חדשות תעופה',
+    tags: ["טיסות","אנגליה","חיפוש טיסות","טיסות זולות"],
+    image: 'https://images.unsplash.com/photo-1543832923-44667a44c804?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/flights-cheap-tips-'
+  },
+  {
     id: '1789402081514',
     title: 'טיפים מועילים לנוסעים עם ילדים: הכנה, טיסה וביטוח',
     excerpt: 'נסיעה עם ילדים היא משימה מאתגרת, אך עם ההכנה הנכונה, היא יכולה להפוך לחוויה מהנה. בפוסט זה, נתמקד בטיפים שיסייעו לכם להכין את הילדים לנסיעה, להתמודד עם הטיסה ולשרות ביטוח נסיעות מתאים.',
