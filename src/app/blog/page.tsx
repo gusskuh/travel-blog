@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1790260579956',
+    title: 'מציאת טיסות זולות לאירופה: המדריך המלא',
+    excerpt: 'מאמר זה מספק מדריך מקיף על כיצד למצוא טיסות זולות לאירופה, כולל המלצות אתרים, כלים ושיטות שיכולות לעזור לכם לחסוך בעלות הנסיעה שלכם.',
+    publishedAt: '2026-09-24',
+    readTime: 12,
+    category: 'חדשות תעופה',
+    tags: ["טיסות","אירופה","חיפוש טיסות","טיסות זולות"],
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05',
+    url: '/blog/-flights-cheap-europe-guide-complete'
+  },
+  {
     id: '1790007021515',
     title: 'השכרת רכב בחו"ל - המדריך המלא',
     excerpt: 'בואו להכיר את כל הטיפים והטריקים להשכרת רכב בחו"ל בצורה שתחסוך לכם כסף, זמן ומון ביטחון. מהשוואת מחירים ועד לבחינת תנאי הביטוח, כאן תמצאו כמה עצות יעילות.',
