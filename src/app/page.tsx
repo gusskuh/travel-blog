@@ -6,6 +6,17 @@ import Footer from '@/components/Footer';
 // Mock data for now - we'll replace this with contentlayer later
 const mockPosts = [
   {
+    id: '1791226946114',
+    title: 'מדריך למציאת טיסות זולות לאמריקה',
+    excerpt: 'מציאת טיסות זולות לאמריקה יכולה להיות משימה מאתגרת, אך לא בלתי אפשרית. במדריך זה, אנו מספקים טיפים מקצועיים וכלים שיסייעו לכם למצוא את העסקאות הטובות ביותר.',
+    publishedAt: '2026-10-05',
+    readTime: 12,
+    category: 'מסעדנות',
+    tags: ["טיסות","אמריקה","חסכון","טיפים","מדריך"],
+    image: 'https://images.unsplash.com/photo-1618064541372-289bdb6f5b7b?q=80&w=2533&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    url: '/blog/guide-flights-cheap-america'
+  },
+  {
     id: '1790873497011',
     title: 'השכרת רכב בחו"ל - המדריך המלא',
     excerpt: 'מדריך מקיף המסביר את כל מה שצריך לדעת לפני השכרת רכב בחו"ל, מהחשיבות של בחירת החברה הנכונה, דרך הביטוח ועד לחווית הנהיגה עצמה.',
